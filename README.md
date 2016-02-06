@@ -1,63 +1,65 @@
 # XCOMClassicRemastered
-An OpenXcom mod that rebalances the original features of classic X-COM.
+An OpenXcom mod that rebalances the original features of classic X-COM.  
 All existing technologies are situational, and gameplay is more varied.
 
-A complete rebalance of all the features in the classic game to sharpen the gameplay experience variety. Designed for people who want to experience only the original content of the game, without the severe balance problems and with enhanced quality. This mod addresses the blatant balance problems of the original, for example: late-game psionics, the blaster launcher, and the plasma beam’s long range making every interception a cake-walk.
+A complete rebalance of all the features in the classic game to sharpen the gameplay experience variety. Designed for people who want to experience **only the original content of the game**, without the severe **balance** problems and with enhanced **quality**. This mod addresses the blatant balance problems of the original, for example: late-game psionics, the blaster launcher, and the plasma beam’s long range making every interception a cake-walk.
 
-No new content is added, and no old content is removed. There are no new weapons, alien races, crafts or UFOs. There’s some recoloring & new graphics for original content to increase the quality, and the LukesExtraUFOs + Terrain Pack for some more battlescape scenario variety.
+**No new content is added**, and no old content is removed. There are no new weapons\*, alien races, crafts or UFOs. There’s some recoloring & new graphics for original content to increase the quality, and the LukesExtraUFOs + Terrain Pack for some **more battlescape scenario variety**.
 
-The game is a lot harder - if you want to win the war, be prepared to lose a few battles. Each battle is much more important, and has a greater impact on the entire course of the game. Each choice you take is much more important, because there is much less margin for error. As a result, each victory is so much more satisfying - you won’t win just because you have 10 über-soldiers with flying armor and imba heavy plasmas (there is no such thing now).
+**The game is a lot harder** - if you want to win the war, be prepared to lose a few battles. Each battle is much more important, and has a greater impact on the entire course of the game. Each choice you take is much more important, because **there is much less margin for error**. As a result, each victory is so much more satisfying - you won’t win just because you have 10 über-soldiers with flying armor and imba heavy plasmas (there is no such thing now).
 
-Make the wrong decisions, and you will lose.
-Make the right decisions, and you might win…
+Make the wrong decisions, and you **will** lose.  
+Make the right decisions, and you **might** win…
+
+\**There’s only one new weapon: the X-COM Launcher that replaces the Blaster Launcher; read more below.*
 
 
 
 ## Weapons
 Regular field weapons consist of 3 classes weapons, with 3 types of weapon each.
 
-Weapons Types:
-Bullets - Cheap and lightweight. High rate of fire, but low damage and low accuracy.
-Laser -  Moderate price, medium weight. Medium rate of fire and damage, but high accuracy.
-Plasma - Expensive and heavy. Low rate of fire, but very high damage, and medium accuracy.
+**Weapons Types**:  
+**Bullets** - Cheap and **lightweight. High rate of fire**, but low damage and low accuracy.  
+**Laser**   - Moderate price, **medium weight**. Medium rate of fire and damage, but **high accuracy**.  
+**Plasma**  - Expensive and **heavy**. Low rate of fire, but **very high damage**, and medium accuracy.
 
-Weapon Classes:
-Pistol - Light, small and one-handed; can be quickly drawn from the belt for a last-resort snap-shot. Low damage, but fast-firing. Overall, it has the best snap-shot at close/medium range, but a weak and low accuracy aimed-shot.
-Rifle - General purpose assault rifle. Medium damage; high ammo capacity. Auto-shot = highest damage per second of all weapon classes. Decent snap-shot, better than the Cannon, worse than the Pistol. Decent aimed-shot; better than the Pistol, worse than the Cannon.
-Cannon - Heavy, slow, and low ammo. Very high damage. Snap-shot is slow and inaccurate, but has the best aimed-shot of all weapon classes. Because it is slow, it is best combined with a belt pistol: after an aimed-shot, a fast soldier will not have enough time units for a snap-shot from the cannon, but might have enough from a pistol.
+**Weapon Classes**:  
+**Pistol** - Light, small and one-handed; can be **quickly drawn from the belt** for a last-resort snap-shot. Low damage, but **fast-firing**. Overall, it has the **best snap-shot** at close/medium range, but a weak and low accuracy aimed-shot.  
+**Rifle** - General purpose assault rifle. **Medium damage**; high ammo capacity. **Auto-shot = highest damage per second** of all weapon classes. Decent snap-shot, better than the Cannon, worse than the Pistol. Decent aimed-shot; better than the Pistol, worse than the Cannon.  
+**Cannon** - **Heavy**, slow, and low ammo. **Very high damage**. Snap-shot is slow and inaccurate, but has the **best aimed-shot** of all weapon classes. Because it is slow, it is best combined with a belt pistol: after an aimed-shot, a fast soldier will not have enough time units for a snap-shot from the cannon, but might have enough from a pistol.
 
-Other weapons:
-Auto-Cannon - No aimed-shot, but a better auto-shot than the rifle. It is slower than the rifle, but deals more damage per second overall. Another obvious advantage is loading it with explosive, or even incendiary ammunition, which is ideal to lighten night missions.
-Rocket Launcher - No snap-shot: combine it with a pistol. The small rocket’s weight was reduced, and its explosion radius was also reduced. However, the power was increased; it deals almost the same damage as the large rocket. This makes the small rocket a good tactical choice for terror missions: large damage over a small radius means it can kill aliens and avoid collateral damage to civilians.
-Blaster Launcher - Can be researched, but not used my X-Com. Only aliens have the psi powers to launch guided missiles.
-X-COM Launcher - No snap-shot: combine it with a pistol. The X-COM equivalent to the Blaster Launcher, that works like an advanced rocket launcher, and fires in a straight line. It features small (tactical), large, and explosive bombs, just like the Rocket Launcher, but deals much more damage over a larger radius. Cannot destroy UFO hulls.
-High Explosive - Damage and weight increased. Deadly, but takes a strong soldier to throw.
-Fusion Charge - Elerium version of the High Explosive. Even more deadly, and heavy. The only piece of equipment that can destroy UFO hulls.
+**Other weapons**:  
+**Auto-Cannon** - **No aimed-shot**, but a **better auto-shot than the rifle**. It is slower than the rifle, but deals more damage per second overall. Another obvious advantage is loading it with explosive, or even incendiary ammunition, which is ideal to lighten night missions.  
+**Rocket Launcher** - **No snap-shot**: combine it with a pistol. The small rocket’s weight was reduced, and its explosion radius was also reduced. However, the power was increased; it deals almost the same damage as the large rocket. This makes the **small rocket a good tactical choice for terror missions**: large damage over a small radius means it can kill aliens and avoid collateral damage to civilians.  
+**Blaster Launcher** - Can be researched, but not used my X-Com. Only aliens have the psi powers to launch guided missiles.  
+**X-COM Launcher** - No snap-shot: combine it with a pistol. The X-COM equivalent to the Blaster Launcher, that works like an **advanced rocket launcher**, and fires in a straight line. It features small (tactical), large, and explosive bombs, just like the Rocket Launcher, but deals much more damage over a larger radius. Cannot destroy UFO hulls.  
+**High Explosive** - Damage and weight increased. Deadly, but takes a strong soldier to throw.  
+**Fusion Charge** - Elerium version of the High Explosive. Even more deadly, and heavy. The only piece of equipment that **can destroy UFO hulls**.
 
-Summary:
-Heavy Plasma is no longer overpowered. It is the best long-range sniping weapon, but has no auto-shot; so it is out-classed by the Plasma Rifle in short-range. It is also heavy and slow, and is out-classed by the Plasma Pistol for reaction fire. You can no longer equip a rookie with Power Armor and Plasma Cannon (X-COM armors now have a weight penalty too). Also, all plasma weapons have low ammo, so reloading in the middle of a fight is common.
-Laser weapons have medium weight and power, but very high accuracy; making them excellent to train rookies, and still be able to deal with weaker aliens (sectoids, floaters, and cyberdisks + sectopods whose electronics are sensitive to laser fire).
-Bullet weapons have high ammo, are cheap, very light and easy to use even by very weak rookies (20ish strength). The low damage also makes them a safe choice for psi-weak soldiers; even the Personal Armor can resist most bullet friendly-fire.
+**Summary**:  
+**Heavy Plasma** is no longer overpowered. It is the best long-range sniping weapon, but has **no auto-shot**; so it is out-classed by the Plasma Rifle in short-range. It is also **heavy and slow**, and is out-classed by the Plasma Pistol for reaction fire. You can no longer equip a rookie with Power Armor and Plasma Cannon (X-COM armors now have a weight penalty too). Also, all **plasma weapons have low ammo**, so reloading in the middle of a fight is common.  
+**Laser weapons** have medium weight and power, but **very high accuracy**; making them excellent to train rookies, and still be able to deal with weaker aliens (sectoids, floaters, and cyberdisks + sectopods whose electronics are sensitive to laser fire).  
+**Bullet weapons have high ammo**, are cheap, very **light** and easy to use even by very weak rookies (20ish strength). The low damage also makes them a **safe choice for psi-weak soldiers**; even the Personal Armor can resist most bullet friendly-fire.
 
 
 
 ## Armor
-Regular tanks (Cannon, Rocket, and Laser) have the highest armor in the front and back of the vehicle. However, the right and left sides are the most vulnerable (exposed tracks).
-Hovertanks (Plasma, Blaster) have high armor from all sides, except the that the back is weaker (hover engine). Also, they are built like the alien’s Cyberdisk, so they are also vulnerable to laser fire. Be careful with friendly-fire and enemy Cyberdisks and Sectopods, which also fire powerful lasers. The Blaster Hovertank fires in a straight line.
+**Regular tanks** (Cannon, Rocket, and Laser) have the highest armor in the front and back of the vehicle. However, the **right and left sides are the most vulnerable** (exposed tracks).  
+**Hovertanks** (Plasma, Blaster) have high armor from all sides, except the that the **back is weaker** (hover engine). Also, they are built like the alien’s Cyberdisk, so they are also **vulnerable to laser** fire. Be careful with friendly-fire and enemy Cyberdisks and Sectopods, which also fire powerful lasers. The Blaster Hovertank fires in a straight line.
 
-Human-worn X-COM armors are all weaker on the back side, and have a weight penalty.
-Personal Armor offers medium protection, but is lightweight and cheap to produce.
-Power Armor offers maximum protection, but is quite heavy and expensive (elerium).
-Flying Armor offers high protection (lower than the Power Armor), and is even more expensive, but allows your soldiers to fly across the battlescape.
+Human-worn X-COM armors are all weaker on the back side, and have a weight penalty.  
+**Personal Armor** offers medium protection, but is **lightweight and cheap** to produce.  
+**Power Armor** offers **maximum protection**, but is quite heavy and expensive (elerium).  
+**Flying Armor** offers high protection (lower than the Power Armor), and is even more **expensive**, but **allows your soldiers to fly** across the battlescape.
 
 
 
 ## Aliens
-Floaters were not changed, they are still the easiest race to fight against, although the Reaper terror unit is now faster and can travel greater distances without triggering reaction fire.
-Sectoids were also not changed, they are relatively easy, although Sectoids from larger UFOs will have psionic powers. Cyberdiscs fire the most powerful laser in the game, but are vulnerable to laser fire themselves.
-Snakeman were improved to become medium-difficulty foes: they are now the fastest non-terror aliens, with very high TUs and reactions. They are still easy to kill even with lasers. Chrysalids were not changed, and remain the most frightening alien in the game.
-Mutons were greatly improved: they have higher resist to bullets, lasers, explosions, and even plasma. They are now the hardest unit to kill after the Sectopod, to remind you of their TFTD counterpart: the Lobstermen. They can only be killed by high-damage weapons, such as plasma and fusions bombs, and it may require several Heavy Plasma shots to bring a Muton down. However, they are slower and have lower reactions, and are vulnerable to psionics, incendiary ammo and acid (mind-controlling a Celatid is a good way to kill them). Celatids were not changed, and still have the highest damage acid projectile in the game. Silacoids are now faster and can travel greater distances without triggering reaction fire.
-Ethereals were not changed, they are still mid-range soldiers with high psionic powers. Sectopods’ armor was slightly reduced, but they are still the hardest unit to kill: use lasers.
+**Floaters** were not changed, they are still the **easiest race** to fight against, although the **Reaper** terror unit is now faster and can travel greater distances without triggering reaction fire.  
+**Sectoids** were also not changed, they are relatively easy, although Sectoids from larger UFOs will have **some psionic powers**. **Cyberdiscs** fire the most **powerful laser** in the game, but are **vulnerable to laser** fire themselves.  
+**Snakemen** were improved to become medium-difficulty foes: they are now the fastest non-terror aliens, with very **high TUs and reactions**. They are still easy to kill even with lasers. **Chrysalids** were not changed, and remain the **most frightening alien in the game**.  
+**Mutons** were greatly improved: they have **higher resist** to bullets, lasers, explosions, and even plasma. They are now the **hardest unit to kill** after the Sectopod, to remind you of their TFTD counterpart: the Lobstermen. They can only be killed by high-damage weapons, such as plasma and fusions bombs, and it may require several Heavy Plasma shots to bring a Muton down. However, they are **slower** and have **lower reactions**, and are vulnerable to psionics, incendiary ammo and acid (mind-controlling a Celatid is a good way to kill them). **Celatids** were not changed, and still have the **highest damage acid** projectile in the game. **Silacoids** are now faster and can travel greater distances without triggering reaction fire.  
+**Ethereals** were not changed, they are still mid-range soldiers with **high psionic powers**. **Sectopods**’ armor was slightly reduced, but they are still the **hardest unit to kill**: use lasers.
 
 
 
