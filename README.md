@@ -32,7 +32,7 @@ Regular field weapons consist of 3 classes weapons, with 3 types of weapon each.
 **Auto-Cannon** - **No aimed-shot**, but a **better auto-shot than the rifle**. It is slower than the rifle, but deals more damage per second overall. Another obvious advantage is loading it with explosive, or even incendiary ammunition, which is ideal to lighten night missions.  
 **Rocket Launcher** - **No snap-shot**: combine it with a pistol. The small rocket’s weight was reduced, and its explosion radius was also reduced. However, the power was increased; it deals almost the same damage as the large rocket. This makes the **small rocket a good tactical choice for terror missions**: large damage over a small radius means it can kill aliens and avoid collateral damage to civilians.  
 **Blaster Launcher** - Can be researched, but not used my X-Com. Only aliens have the psi powers to launch guided missiles.  
-**X-COM Launcher** - No snap-shot: combine it with a pistol. The X-COM equivalent to the Blaster Launcher, that works like an **advanced rocket launcher**, and fires in a straight line. It features small (tactical), large, and explosive bombs, just like the Rocket Launcher, but deals much more damage over a larger radius. Cannot destroy UFO hulls.  
+**X-COM Launcher** - No snap-shot: combine it with a pistol. The X-COM equivalent to the Blaster Launcher, that works like an **advanced rocket launcher**, and fires in a straight line. It features small (tactical), large, and incendiary bombs, just like the Rocket Launcher, but deals much more damage over a larger radius. Cannot destroy UFO hulls.  
 **High Explosive** - Damage and weight increased. Deadly, but takes a strong soldier to throw.  
 **Fusion Charge** - Elerium version of the High Explosive. Even more deadly, and heavy. The only piece of equipment that **can destroy UFO hulls**.
 
@@ -45,7 +45,7 @@ Regular field weapons consist of 3 classes weapons, with 3 types of weapon each.
 
 ## Armor
 **Regular tanks** (Cannon, Rocket, and Laser) have the highest armor in the front and back of the vehicle. However, the **right and left sides are the most vulnerable** (exposed tracks).  
-**Hovertanks** (Plasma, Blaster) have high armor from all sides, except the that the **back is weaker** (hover engine). Also, they are built like the alien’s Cyberdisk, so they are also **vulnerable to laser** fire. Be careful with friendly-fire and enemy Cyberdisks and Sectopods, which also fire powerful lasers. The Blaster Hovertank fires in a straight line.
+**Hovertanks** (Plasma, Blaster) have high armor from all sides, except that the **back is weaker** (hover engine). Also, they are built like the alien’s Cyberdisk, so they are also **vulnerable to laser** fire. Be careful with friendly-fire and enemy Cyberdisks and Sectopods, which also fire powerful lasers. The Blaster Hovertank fires in a straight line.
 
 Human-worn X-COM armors are all weaker on the back side, and have a weight penalty.  
 **Personal Armor** offers medium protection, but is **lightweight and cheap** to produce.  
