@@ -1,4 +1,4 @@
-# XCOMClassicRemastered
+# X-COM Classic Remastered
 An OpenXcom mod that rebalances the original features of classic X-COM.  
 All existing technologies are situational, and gameplay is more varied.
 
@@ -59,7 +59,8 @@ Human-worn X-COM armors are all weaker on the back side, and have a weight penal
 **Sectoids** were also not changed, they are relatively easy, although Sectoids from larger UFOs will have **some psionic powers**. **Cyberdiscs** fire the most **powerful laser** in the game, but are **vulnerable to laser** fire themselves.  
 **Snakemen** were improved to become medium-difficulty foes: they are now the fastest non-terror aliens, with very **high TUs and reactions**. They are still easy to kill even with lasers. **Chrysalids** were not changed, and remain the **most frightening alien in the game**.  
 **Mutons** were greatly improved: they have **higher resist** to bullets, lasers, explosions, and even plasma. They are now the **hardest unit to kill** after the Sectopod, to remind you of their TFTD counterpart: the Lobstermen. They can only be killed by high-damage weapons, such as plasma and fusions bombs, and it may require several Heavy Plasma shots to bring a Muton down. However, they are **slower** and have **lower reactions**, and are vulnerable to psionics, incendiary ammo and acid (mind-controlling a Celatid is a good way to kill them). **Celatids** were not changed, and still have the **highest damage acid** projectile in the game. **Silacoids** are now faster and can travel greater distances without triggering reaction fire.  
-**Ethereals** were not changed, they are still mid-range soldiers with **high psionic powers**. **Sectopods**’ armor was slightly reduced, but they are still the **hardest unit to kill**: use lasers.
+**Ethereals** were not changed, they are still mid-range soldiers with **high psionic powers**. **Sectopods**’ armor was slightly reduced, but they are still the **hardest unit to kill**: use lasers.  
+As the game progresses, difficulty will increase. The alien UFOs will start having **mixed crews with 2 alien races** each. Several (but not all) of these crews have at least one race with psionic powers, which can result in very deadly combinations (i.e. Mutons+Ethereals). Also, the Hyperwave Decoder will only state that a UFO has a “Mixed Crew”; you can only know which races are involved in the Battlescape...
 
 
 
@@ -90,27 +91,28 @@ The Lightning was replaced by the **Thunder**: a hybrid-engine fighter-transport
 
 
 ## UFOs
-All UFOs had their range increased. Most interceptions will now result in your crafts taking some damage. If a weapon out-ranges an UFO, it will most likely destroy that UFO.
-All Scouts can be destroyed if you use the wrong weapons. You need laser or weaker to safely recover Small Scouts. The Stingray can out-range the Medium Scout, but it has a small chance to destroy it. The Avalanche can out-range the Large Scout, but it has a small chance to destroy it. If you get within range of a Large Scout - it is a dangerous foe and has a chance to destroy your interceptor.
-Abductors and Harvesters appear more frequently. They can only be taken down by 2 interceptors or more.
-Supply Ships have very high health, so the problem is how long it takes to bring them down. Only with Laser Cannons or better will you have enough DPS to bring down a Supply Ship fast enough for 2 interceptors to survive (3 is safer).
-Terror Ship’s DPS is now much higher, it has a weak weapon, but it fires very fast, so it can deal unexpected high amounts of damage in a short time if the UFO scores several hits in a row. Battleship’s weapon is much more powerful, but slower. It is able to take a big chunk of health from a Firestorm or Avenger, or instantly destroy an Interceptor.
+**All UFOs had their range increased.** Most interceptions will now result in your crafts taking some damage. If a weapon out-ranges an UFO, it will most likely destroy that UFO.  
+**All Scouts can be destroyed** if you use the wrong weapons. You need laser or weaker to safely recover Small Scouts. The Stingray can out-range the Medium Scout, but it has a small chance to destroy it. The Avalanche can out-range the Large Scout, but it has a small chance to destroy it. If you get within range of a Large Scout - it is a dangerous foe and has a chance to destroy your interceptor.  
+**Abductors and Harvesters appear more frequently.** They can only be taken down by 2 interceptors or more.  
+**Supply Ships have high health**, so the problem is how long it takes to bring them down. Only with Laser Cannons or better will you have enough DPS to bring down a Supply Ship fast enough for 2 interceptors to survive (3 is safer).  
+**Terror Ship’s DPS is now much higher**, it has a weak weapon, but it fires very fast, so it can deal unexpected high amounts of damage in a short time if the UFO scores several hits in a row.  
+**Battleship’s weapon is much more powerful**, but slower. It is able to take a big chunk of health from a Firestorm or Avenger, or instantly destroy an Interceptor.
 
 
 
 ## Research
-Live alien interrogations are the basis for all research. Soldiers unlock Plasma Weapons. Engineers unlock crafts, craft weapons, some UFO components and alien explosives. Navigators unlock other UFO components, and alien communications. Multiple live psi-aliens are needed to completely unlock the psi-tree.
-No research is useless: the research topics that do not give new technologies, give a large amount of points (Martian Solution, Cydonia; and Examination Room + Alien Surgery that depend on live Alien Medics).
-To start interrogating aliens, you need an Alien Containment facility. To research Alien Containment you must research Alien Habitat (recoverable from some Large Scout UFOs). To research the Alien Habitat you must research Alien Life Forms, which depends on any alien corpse research. So the order is:
-Any Alien Autopsy > Alien Life Forms > Alien Habitat > Alien Containment
-All high-tier research takes longer to complete, leaving the player to struggle for longer with mid-range technologies (lasers + personal armors). Each time you finish a research you must choose wisely what alien to interrogate next.
+**Live alien interrogations** are the basis for all research. Soldiers unlock Plasma Weapons. Engineers unlock crafts, craft weapons, some UFO components and alien explosives. Navigators unlock other UFO components, and alien communications. Multiple live psi-aliens are needed to completely unlock the psi-tree.  
+**No research is useless**: the research topics that do not give new **technologies**, give a large amount of **points** (Martian Solution, Cydonia; and Examination Room + Alien Surgery that depend on live Alien Medics).  
+To start interrogating aliens, you need an Alien Containment facility. To research Alien Containment you must research Alien Habitat (recoverable from some Large Scout UFOs). To research the Alien Habitat you must research Alien Life Forms, which depends on any alien corpse research. So the order is:  
+ - **Any Alien Autopsy** > **Alien Life Forms** > **Alien Habitat** > **Alien Containment**  
+All **high-tier research takes longer** to complete, leaving the player to struggle for longer with mid-range technologies (lasers + personal armors). Each time you finish a research you must choose wisely what alien to interrogate next.
 
-SPOILER ALERT - The mod includes diagrams with the full tech trees, but for a more genuine game experience you should NOT check them; there are hints in the ufopaedia text… ;)
+*SPOILER ALERT - The mod includes diagrams with the full tech trees, but for a more genuine game experience you should NOT check them; there are hints in the ufopaedia text…* :wink:
 
 
 
 ## Ufopaedia
-All ufopaedia text re-written to reflect the new game balance. Ufopaedia text is no longer useless: it now contains hints of what each alien interrogation might unlock, for you to decide what to research next. It also contains useful tactical information about what makes each item and unit unique; strengths and weaknesses. The new balance will force you to make difficult choices throughout the entire game. The more you learn from the ufopaedia, the better choices you will be able to make.
+**All ufopaedia text re-written to reflect the new game balance.** Ufopaedia text is no longer useless: it now contains **hints of what each alien interrogation might unlock**, for you to decide what to research next. It also contains useful tactical information about what **makes each item and unit unique; strengths and weaknesses**. The new balance will force you to make difficult choices throughout the entire game. The more you learn from the ufopaedia, the better choices you will be able to make.
 
 
 
@@ -119,26 +121,40 @@ All scoring rebalanced, and generally scaled down. Recovered UFO parts and alien
 
 
 
+## Links
+[XCR on GitHub](https://github.com/Coincident/XCOMClassicRemastered)
+
+[XCR Readme](https://docs.google.com/document/d/1w74mm2hztQEn1fmIWZpCMQYygq-xuDaVMDJ6RyDEJ_U)  
+[Weapons Research Tree](https://docs.google.com/drawings/d/1yHw6fUAcC7SVKjrbTXd4AGmVco8tPno7IyUL2Pqsy3U)  
+[UFOs Research Tree](https://docs.google.com/drawings/d/1Zhqt46kY6q82AwOePOZmPcOAhmOHtwrniywlYL0Oqks)  
+[Aliens Research Tree](https://docs.google.com/drawings/d/126EYjrqiZbpQliMWhdjcVNKf85d9UnxarD64ZVgAHCw)
+
+[Battlescape (Coincident Balance Tool)](https://docs.google.com/spreadsheets/d/1fhV1MsLFLf606s4Y0l6RAD9tbM0lNjSRylbWmJ3fOYU)  
+[Facilities + Prices + Manufacture (Coincident Balance Tool)](https://docs.google.com/spreadsheets/d/1NciSVVs0K2WSiU-sCQbfyIzQywJbVBjloIyi0Ngyq_s)  
+[Interception (Coincident Balance Tool)](https://docs.google.com/spreadsheets/d/1cqgUBBxHir0gr91cHkDVivEgViMtUsy0mCR-JcUzSVc)  
+[Scoring + Research (Coincident Balance Tool)](https://docs.google.com/spreadsheets/d/1ZVom3oFyZPURVcm9xC50BskmpVN8kjZAIOa_G70YIv4)
+
+
+
 ## Credits
-X-COM Classic Remastered
-Complete rebalance, X-COM Launcher, and Fusion Charge - Coincident
+**X-COM Classic Remastered**  
+Complete rebalance, X-COM Launcher, and Fusion Charge - **Coincident**
 
-
-Thanks to the authors of other mods, which content was included or inspired upon:
-Alien_Research_Mod - cybragon
-GenderDetailUp - cybragon
-AlienInventoryMod - Cirix, Luke83
-LukesextraUFOs - Luke83, TurkishSwede
-Better UI - civilian
-BREACHING CHARGE graphics - civilian
-Extra Explosions - Arthanor
-FirestormRestyle - Shadow
-ImprovedHandObs - IvanDogovich
-Mackus_mixed_crew - Mackus
-THUNDER - hellrazor
-MatchingWeaponColors - trollworkout
-MoriartyArmor - Moriarty, BombBloke, Warboy1982
-REPRODUCTION - Warboy1982
-TERRAIN_PACK - Hobbes, Nachtwolf, Voller, civilian, Bagirov, Solarius Scorch, VS86x, Infini, XOps, Dioxine, Tentacular, MKSheppard, Volutar, Warboy1982, Supsuper
-ITEMLEVELS - SolariusScorch
-Advanced Launcher graphics - from Shadow Warrior, ripped by Dioxine
+Thanks to the authors of **other mods**, which content was included or inspired upon:  
+Alien_Research_Mod - **cybragon**  
+GenderDetailUp - **cybragon**  
+AlienInventoryMod - **Cirix, Luke83**  
+LukesextraUFOs - **Luke83, TurkishSwede**  
+Better UI - **civilian**  
+BREACHING CHARGE graphics - **civilian**  
+Extra Explosions - **Arthanor**  
+FirestormRestyle - **Shadow**  
+ImprovedHandObs - **IvanDogovich**  
+Mackus_mixed_crew - **Mackus**  
+THUNDER - **hellrazor**  
+MatchingWeaponColors - **trollworkout**  
+MoriartyArmor - **Moriarty, BombBloke, Warboy1982**  
+REPRODUCTION - **Warboy1982**  
+TERRAIN_PACK - **Hobbes, Nachtwolf, Voller, civilian, Bagirov, Solarius Scorch, VS86x, Infini, XOps, Dioxine, Tentacular, MKSheppard, Volutar, Warboy1982, Supsuper**  
+ITEMLEVELS - **SolariusScorch**  
+Advanced Launcher graphics - from *Shadow Warrior*, ripped by **Dioxine**
