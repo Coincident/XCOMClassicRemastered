@@ -102,10 +102,10 @@ The Lightning was replaced by the **Thunder**: a hybrid-engine fighter-transport
 
 ## Research
 **Live alien interrogations** are the basis for all research. Soldiers unlock Plasma Weapons. Engineers unlock crafts, craft weapons, some UFO components and alien explosives. Navigators unlock other UFO components, and alien communications. Multiple live psi-aliens are needed to completely unlock the psi-tree.  
-**No research is useless**: the research topics that do not give new **technologies**, give a large amount of **points** (Martian Solution, Cydonia; and Examination Room + Alien Surgery that depend on live Alien Medics).  
 To start interrogating aliens, you need an Alien Containment facility. To research Alien Containment you must research Alien Habitat (recoverable from some Large Scout UFOs). To research the Alien Habitat you must research Alien Life Forms, which depends on any alien corpse research. So the order is:  
- - **Any Alien Autopsy** > **Alien Life Forms** > **Alien Habitat** > **Alien Containment**  
-All **high-tier research takes longer** to complete, leaving the player to struggle for longer with mid-range technologies (lasers + personal armors). Each time you finish a research you must choose wisely what alien to interrogate next.
+ - **Any Alien Autopsy** > **Alien Life Forms** > **Alien Habitat** > **Alien Containment**
+
+**No research is useless**: the research topics that do not give new **technologies**, give a large amount of **points** (Martian Solution, Cydonia; and Examination Room + Alien Surgery that depend on live Alien Medics). All **high-tier research takes longer** to complete, leaving the player to struggle for longer with mid-range technologies (lasers + personal armors). Each time you finish a research you must choose wisely what alien to interrogate next.
 
 *SPOILER ALERT - The mod includes diagrams with the full tech trees, but for a more genuine game experience you should NOT check them; there are hints in the ufopaedia text…* :wink:
 
