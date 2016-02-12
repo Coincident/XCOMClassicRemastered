@@ -64,6 +64,29 @@ As the game progresses, difficulty will increase. The alien UFOs will start havi
 
 
 
+## Facilities
+**Missile Defenses** were greatly improved. They are the **fastest defenses to build**, and have a mediocre power for a **low maintenance**. Missile Defenses are the **most cost-effective defenses**, but their mediocre power makes them the **least space-effective defenses**. 14 Missile Defenses have a 90% chance of destroying a Battleship.  
+**Laser Defenses** deal **medium damage**, take a moderate amount of time to build, and have a **medium maintenance cost**. They are more powerful, but less cost-effective than the Missile Defenses. 11 Laser Defenses have a 90% chance of destroying a Battleship.  
+**Plasma Defenses** deal **high damage**, but take a long time to build, and have a **high maintenance**. They are more powerful, but less cost-effective than the Laser Defenses. 8 Plasma Defenses have a 90% chance of destroying a Battleship.  
+**Fusion Defenses** were nerfed. They are the **most powerful** defenses, but also the **most expensive**, and slower to build. They are more powerful, but less cost-effective than the Plasma Defenses. The Fusion Defenses are the **least cost-effective defenses**, but their very high power makes them the **most space-effective defenses**. 5 Fusion Defenses have a 90% chance of destroying a Battleship.  
+All facilities, especially high-tier facilities (Psi-Lab, Mind Shield, Grav Shield, etc.), have had their maintenance greatly increased. You will need a good source of income to have 8 fully-built X-COM bases, which are now more expensive to maintain.
+
+
+
+## Manufacture
+The game economy is more tight, and **making money is more difficult**. Maintenance costs are higher, and recovered alien equipment sells for less money. Also, manufacturing items for profit is much less effective (see below for more info about profitability).  
+**Alien materials and UFO components are no longer manufacturable.** Not only Elerium, but Alien Alloys, UFO Power Sources and UFO Navigations can only be recovered from the aliens. Most manufacturing projects now cost more Alloys, Power Sources and Navigations, especially Hovertanks, which now cost 1 Power Source and 2 Navigations each.  
+The **Mind Probe cannot be manufactured** either, but **sells for 400 000$** each, so they are a very good way of boosting your economy in the early-game. However, you will need **1 Mind Probe to manufacture 1 Psi-Amp**, so you will need to keep some Mind Probes in stock until the late game. You have an 80% chance to recover 1 Mind Probe from a Small Scout, and a 20% chance to recover 1 Mind Probe from a Medium Scout; no other UFO will contain Mind Probes. You will need to use weak Craft Weapons, such as the Cannon or Laser, to safely take down smaller UFOs for a chance to farm Mind Probes.
+
+
+
+## Profitability
+The **Medikit** is very **fast to research**, but gives a **low profit**. The **Motion Scanner** is also **fast to research**, and gives **some more profit**. Laser Pistols and Rifles do not give any profit. The **Heavy Laser** gives the **best profit with 1 or 2 Workshops** at full capacity. The **Laser Cannon** (larger project) gives the **best profit with 3 Workshops**. The **Tank/Laser Cannon** (largest) gives the **best profit with 4 or more Workshops**.
+
+If you have a lot of **spare alien materials**, there are some manufacture projects that are even more profitable than selling those materials. If you have **lots of Alien Alloys, manufacture X-COM Launchers** to get more profit per month than any of the Laser technologies (taking into account the alloys sell price). If you have **lots of Elerium, manufacture Fusion Bombs** for an even higher profitability. If you have lots of **Alloys and Elerium**, manufacture **Fusion Charges** if you only have **1 Workshop**, or **Flying Suits** if you have **2 or more Workshops**. If you also have lots of **Navigations and Power Sources**, nothing is profitable with only 1 Workshop (large projects only). But you can manufacture **Hovertank/Launchers** with **2 Workshops**, **Firestorms** with **3 Workshops**, or **Avengers** with **4 or more Workshops**. Finally, if you have lots of **Mind Probes**, manufacture **Psi-Amps** - by far the most profitable item in the entire game, no matter how many Workshops you have.
+
+
+
 ## Crafts
 All crafts have a maintenance cost; but the **Interceptor** and **Skyranger** are cheaper.
 
