@@ -1,0 +1,14 @@
+extraSprites:
+  - type: BIGOBS.PCK
+    files:
+      35: Resources/Matching_Alien_Launcher_Colors/alien_launcher.png
+  - type: FLOOROB.PCK
+    files:
+      34: Resources/Matching_Alien_Launcher_Colors/floorob_alien_launcher.png
+  - type: HANDOB.PCK
+    width: 256
+    height: 40
+    subX: 32
+    subY: 40
+    files:
+      56: Resources/Matching_Alien_Launcher_Colors/handob_alien_launcher.png

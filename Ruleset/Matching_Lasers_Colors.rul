@@ -1,0 +1,17 @@
+extraSprites:
+  - type: BIGOBS.PCK
+    files:
+      5: Resources/Matching_Lasers_Colors/BigOb_Laser_Pistol.png
+      6: Resources/Matching_Lasers_Colors/BigOb_Heavy_Laser.png
+  - type: FLOOROB.PCK
+    files:
+      5: Resources/Matching_Lasers_Colors/FloorOb_Laser_Pistol.png
+      6: Resources/Matching_Lasers_Colors/FloorOb_Heavy_Laser.png
+  - type: HANDOB.PCK
+    width: 256
+    height: 40
+    subX: 32
+    subY: 40
+    files:
+      16: Resources/Matching_Lasers_Colors/HandOb_Heavy_Laser.png
+      112: Resources/Matching_Lasers_Colors/HandOb_Laser_Pistol.png

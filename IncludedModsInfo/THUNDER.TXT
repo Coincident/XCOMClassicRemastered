@@ -1,0 +1,23 @@
+#Alternate Lightning - Thunder Mod by hellrazor
+#Version without Lightning Front Door.
+
+The THUNDER is a complete replacement for the rarely used LIGHTNING.
+It has the same stats as it, with the exception of a Troop capacity of up to
+18 Soldiers, it is also capable of bringing Tanks into combat.
+
+Possible Loadouts:
+
+- 18 Soldiers or
+
+- 14 Soldiers + 1 Tank or
+
+- 10 Soldiers + 2 Tanks.
+
+Added:
+- THUNDER.MCD
+- THUNDER.PCK
+- THUNDER.TAB
+
+Which are renamed and patched Version of Lightning MCD file, so no one can complain about shitty Maps anymore :>
+
+Fixed: Soldier Position in the Deployment

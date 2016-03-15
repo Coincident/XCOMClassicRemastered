@@ -1,0 +1,80 @@
+crafts:
+  - delete: STR_LIGHTNING
+  - type: STR_THUNDER
+    requires:
+      - STR_NEW_FIGHTER_TRANSPORTER
+    sprite: 1
+    costSell: 3470000
+    costRent: 450000
+    fuelMax: 2000
+    damageMax: 800
+    speedMax: 3100
+    accel: 9
+    weapons: 1
+    soldiers: 18
+    vehicles: 2
+    refuelRate: 50
+    score: 800
+    battlescapeTerrainData:
+      name: THUNDER
+      mapDataSets:
+        - BLANKS
+        - THUNDER
+      mapBlocks:
+        - name: THUNDER
+          width: 20
+          length: 10
+    deployment:
+      - [10, 4, 1, 2]
+      - [10, 5, 1, 2]
+      - [9, 4, 1, 2]
+      - [9, 5, 1, 2]
+      - [8, 4, 1, 2]
+      - [8, 5, 1, 2]
+      - [7, 4, 1, 2]
+      - [7, 5, 1, 2]
+      - [10, 3, 1, 3]
+      - [10, 6, 1, 1]
+      - [9, 3, 1, 2]
+      - [9, 6, 1, 2]
+      - [8, 3, 1, 2]
+      - [8, 6, 1, 2]
+      - [7, 3, 1, 2]
+      - [7, 6, 1, 2]
+      - [6, 4, 1, 2]
+      - [6, 5, 1, 2]
+
+manufacture:
+  - delete: STR_LIGHTNING
+  - name: STR_THUNDER
+    category: STR_CRAFT
+    requires:
+      - STR_NEW_FIGHTER_TRANSPORTER
+    space: 36
+    time: 18000
+    cost: 900000
+    requiredItems:
+      STR_ALIEN_ALLOYS: 140
+      STR_ELERIUM_115: 30
+      STR_UFO_POWER_SOURCE: 1
+      STR_UFO_NAVIGATION: 8
+
+ufopaedia:
+  - delete: STR_LIGHTNING
+  - id: STR_THUNDER
+    type_id: 1
+    section: STR_XCOM_CRAFT_ARMAMENT
+    requires:
+      - STR_NEW_FIGHTER_TRANSPORTER
+    image_id: UP003.SPK
+    rect_stats:
+      x: 5
+      y: 132
+      width: 160
+      height: 60
+    rect_text:
+      x: 5
+      y: 40
+      width: 310
+      height: 60
+    text: STR_THUNDER_UFOPEDIA

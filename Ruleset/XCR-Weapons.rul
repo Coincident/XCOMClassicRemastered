@@ -1,0 +1,450 @@
+items:
+  - type: STR_PISTOL
+    size: 0.1
+    costBuy: 1000
+    costSell: 750
+    weight: 4
+    accuracySnap: 58
+    accuracyAimed: 63
+    tuSnap: 19
+    tuAimed: 33
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+  - type: STR_PISTOL_CLIP
+    size: 0.1
+    costBuy: 90
+    costSell: 70
+    weight: 1
+    power: 26
+    clipSize: 15
+    armor: 12
+  - type: STR_RIFLE
+    size: 0.2
+    costBuy: 3000
+    costSell: 2250
+    weight: 5
+    accuracyAuto: 33
+    accuracySnap: 57
+    accuracyAimed: 86
+    tuAuto: 27
+    tuSnap: 22
+    tuAimed: 48
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+  - type: STR_RIFLE_CLIP
+    size: 0.1
+    costBuy: 200
+    costSell: 150
+    weight: 2
+    power: 30
+    clipSize: 30
+  - type: STR_HEAVY_CANNON
+    size: 0.3
+    costBuy: 6400
+    costSell: 4800
+    weight: 11
+    accuracySnap: 40
+    accuracyAimed: 89
+    tuSnap: 27
+    tuAimed: 66
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+  - type: STR_HC_AP_AMMO
+    size: 0.1
+    costBuy: 300
+    costSell: 225
+    weight: 3
+    power: 56
+    clipSize: 12
+  - type: STR_HC_HE_AMMO
+    size: 0.1
+    costBuy: 1000
+    costSell: 650
+    weight: 3
+    power: 55
+    blastRadius: 3
+    clipSize: 12
+  - type: STR_HC_I_AMMO
+    size: 0.1
+    costBuy: 500
+    costSell: 360
+    weight: 3
+    power: 68
+    blastRadius: 3
+    clipSize: 12
+  - type: STR_AUTO_CANNON
+    size: 0.3
+    costBuy: 13500
+    costSell: 10125
+    weight: 10
+    accuracyAuto: 29
+    accuracySnap: 42
+    accuracyAimed: 0
+    tuAuto: 24
+    tuSnap: 24
+    tuAimed: 0
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+  - type: STR_AC_AP_AMMO
+    size: 0.1
+    costBuy: 500
+    costSell: 400
+    weight: 4
+    power: 42
+    clipSize: 18
+  - type: STR_AC_HE_AMMO
+    size: 0.1
+    costBuy: 1400
+    costSell: 1150
+    weight: 4
+    power: 41
+    clipSize: 18
+    blastRadius: 3
+  - type: STR_AC_I_AMMO
+    size: 0.1
+    costBuy: 800
+    costSell: 620
+    weight: 4
+    power: 51
+    clipSize: 18
+    blastRadius: 3
+  - type: STR_LASER_PISTOL
+    size: 0.1
+    costSell: 19000
+    weight: 6
+    power: 46
+    accuracyAuto: 0
+    accuracySnap: 73
+    accuracyAimed: 80
+    tuAuto: 0
+    tuSnap: 22
+    tuAimed: 47
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    clipSize: 70
+  - type: STR_LASER_RIFLE
+    size: 0.2
+    costSell: 32760
+    weight: 9
+    power: 60
+    accuracyAuto: 41
+    accuracySnap: 69
+    accuracyAimed: 95
+    tuAuto: 37
+    tuSnap: 27
+    tuAimed: 60
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    clipSize: 80
+  - type: STR_HEAVY_LASER
+    size: 0.3
+    costSell: 66300
+    weight: 17
+    power: 85
+    accuracySnap: 66
+    accuracyAimed: 99
+    tuSnap: 39
+    tuAimed: 69
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    clipSize: 50
+  - type: STR_HEAVY_PLASMA
+    size: 0.6
+    costSell: 125000
+    weight: 18
+    accuracyAuto: 0
+    accuracySnap: 59
+    accuracyAimed: 95
+    tuAuto: 0
+    tuSnap: 40
+    tuAimed: 71
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    recoveryPoints: 5
+  - type: STR_HEAVY_PLASMA_CLIP
+    size: 0.3
+    costSell: 9590
+    weight: 4
+    power: 120
+    clipSize: 10
+    recoveryPoints: 1
+  - type: STR_PLASMA_RIFLE
+    size: 0.4
+    costSell: 100000
+    weight: 10
+    accuracyAuto: 35
+    accuracySnap: 60
+    accuracyAimed: 87
+    tuAuto: 39
+    tuSnap: 28
+    tuAimed: 62
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    recoveryPoints: 4
+  - type: STR_PLASMA_RIFLE_CLIP
+    size: 0.2
+    costSell: 6290
+    weight: 3
+    power: 90
+    clipSize: 20
+    recoveryPoints: 1
+  - type: STR_PLASMA_PISTOL
+    size: 0.2
+    costSell: 75000
+    weight: 7
+    accuracyAuto: 0
+    accuracySnap: 64
+    accuracyAimed: 72
+    tuAuto: 0
+    tuSnap: 23
+    tuAimed: 49
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    recoveryPoints: 3
+  - type: STR_PLASMA_PISTOL_CLIP
+    size: 0.1
+    costSell: 4440
+    weight: 2
+    power: 70
+    clipSize: 12
+    recoveryPoints: 1
+  - type: STR_ROCKET_LAUNCHER
+    size: 0.4
+    costBuy: 14500
+    costSell: 10500
+    weight: 10
+    accuracySnap: 0
+    accuracyAimed: 91
+    tuSnap: 0
+    tuAimed: 70
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    listOrder: 3200
+  - type: STR_SMALL_ROCKET
+    size: 0.2
+    costBuy: 900
+    costSell: 700
+    weight: 5
+    power: 85
+    blastRadius: 3
+    listOrder: 3300
+  - type: STR_LARGE_ROCKET
+    size: 0.2
+    costBuy: 1800
+    costSell: 1450
+    weight: 8
+    power: 95
+    blastRadius: 6
+    listOrder: 3400
+  - type: STR_INCENDIARY_ROCKET
+    size: 0.2
+    costBuy: 1200
+    costSell: 960
+    weight: 6
+    power: 90
+    listOrder: 3500
+  - type: STR_X-COM_LAUNCHER
+    size: 0.7
+    costSell: 298000
+    weight: 14
+    bigSprite: 194
+    floorSprite: 276
+    handSprite: 198
+    bulletSprite: 0
+    fireSound: 52
+    compatibleAmmo:
+      - STR_FUSION_BOMB
+      - STR_TACTICAL_BUSTER
+      - STR_NAPALM_BLASTER
+    accuracySnap: 0
+    accuracyAimed: 97
+    tuSnap: 0
+    tuAimed: 72
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    battleType: 1
+    twoHanded: true
+    invWidth: 2
+    invHeight: 3
+    listOrder: 3740
+  - type: STR_FUSION_BOMB
+    size: 0.5
+    costSell: 91300
+    weight: 9
+    bigSprite: 195
+    handSprite: 264
+    floorSprite: 17
+    hitSound: 0
+    hitAnimation: 0
+    power: 160
+    damageType: 3
+    clipSize: 1
+    battleType: 2
+    invWidth: 1
+    invHeight: 3
+    blastRadius: 9
+    listOrder: 3741
+  - type: STR_TACTICAL_BUSTER
+    size: 0.4
+    costSell: 55300
+    weight: 6
+    bigSprite: 197
+    handSprite: 256
+    floorSprite: 16
+    hitSound: 0
+    hitAnimation: 0
+    power: 145
+    damageType: 3
+    clipSize: 1
+    battleType: 2
+    invWidth: 1
+    invHeight: 3
+    blastRadius: 4
+    listOrder: 3742
+  - type: STR_NAPALM_BLASTER
+    size: 0.4
+    costSell: 58100
+    weight: 7
+    bigSprite: 196
+    handSprite: 272
+    floorSprite: 18
+    hitSound: 0
+    hitAnimation: 0
+    power: 150
+    damageType: 2
+    clipSize: 1
+    battleType: 2
+    invWidth: 1
+    invHeight: 3
+    blastRadius: 8
+    listOrder: 3743
+  - type: STR_BLASTER_LAUNCHER
+    requires:
+      - STR_THIS_WEAPON_CANNOT_BE_USED_BY_XCOM
+    size: 0.8
+    costSell: 150000
+  - type: STR_BLASTER_BOMB
+    requires:
+      - STR_THIS_WEAPON_CANNOT_BE_USED_BY_XCOM
+    size: 0.5
+    costSell: 31500
+    recoveryPoints: 2
+  - type: STR_GRENADE
+    size: 0.1
+    costBuy: 300
+    costSell: 240
+    weight: 2
+    power: 50
+    blastRadius: 4
+  - type: STR_ALIEN_GRENADE
+    size: 0.1
+    costSell: 14850
+    weight: 3
+    power: 90
+    recoveryPoints: 1
+    blastRadius: 6
+  - type: STR_PROXIMITY_GRENADE
+    size: 0.1
+    costBuy: 600
+    costSell: 470
+    weight: 4
+    power: 70
+    blastRadius: 6
+  - type: STR_HIGH_EXPLOSIVE
+    size: 0.2
+    costBuy: 1500
+    costSell: 1200
+    weight: 6
+    power: 120
+    blastRadius: 7
+  - type: STR_FUSION_CHARGE
+    size: 0.4
+    costSell: 121000
+    weight: 8
+    bigSprite: 191
+    floorSprite: 192
+    handSprite: 193
+    power: 200
+    damageType: 3
+    battleType: 4
+    invWidth: 2
+    invHeight: 1
+    blastRadius: 7
+    armor: 30
+  - type: STR_SMALL_LAUNCHER
+    size: 0.2
+    costSell: 120000
+    weight: 10
+    accuracySnap: 62
+    accuracyAimed: 98
+    tuSnap: 38
+    tuAimed: 72
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    recoveryPoints: 4
+  - type: STR_STUN_BOMB
+    size: 0.1
+    costSell: 15200
+    weight: 3
+    power: 90
+    recoveryPoints: 2
+  - type: STR_MIND_PROBE
+    size: 0.4
+    costSell: 400000
+    weight: 5
+    tuUse: 37
+    recoveryPoints: 5
+  - type: STR_PSI_AMP
+    requires:
+      - STR_PSI_AMP
+    size: 0.4
+    costSell: 766000
+    weight: 15
+    tuUse: 75
+    flatRate: false
+  - type: STR_SMOKE_GRENADE
+    costBuy: 250
+    costSell: 200
+  - type: STR_STUN_ROD
+    size: 0.2
+  - type: STR_ELECTRO_FLARE
+    costBuy: 120
+    costSell: 80
+  - type: STR_MEDI_KIT
+    costSell: 49100
+  - type: STR_MOTION_SCANNER
+    costSell: 45500
+    
+extraSprites:
+  - type: BIGOBS.PCK
+    files:
+      191: Resources/FC/FC.gif
+      194: Resources/XCL/XCL.gif
+      195: Resources/XCL/XCL-FB.gif
+      196: Resources/XCL/XCL-NB.gif
+      197: Resources/XCL/XCL-TB.gif
+  - type: FLOOROB.PCK
+    files:
+      192: Resources/FC/FloorFC.gif
+      276: Resources/XCL/XCL-floor.gif
+  - type: HANDOB.PCK
+    width: 256
+    height: 40
+    subX: 32
+    subY: 40
+    files:
+      193: Resources/FC/HandOb_FC.gif
+      198: Resources/XCL/XCL-hand.png

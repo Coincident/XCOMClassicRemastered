@@ -1,0 +1,37 @@
+crafts:
+  - type: STR_FIRESTORM
+    requires:
+      - STR_NEW_FIGHTER_CRAFT
+    sprite: 24
+ufopaedia:
+  - id: STR_FIRESTORM
+    type_id: 1
+    section: STR_XCOM_CRAFT_ARMAMENT
+    requires:
+      - STR_NEW_FIGHTER_CRAFT
+    image_id: UP005.SPK
+    rect_stats:
+      x: 200
+      y: 134
+      width: 140
+      height: 60
+    rect_text:
+      x: 5
+      y: 40
+      width: 136
+      height: 100
+    text: STR_FIRESTORM_UFOPEDIA
+extraSprites:
+  - type: UP005.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FirestormRestyle/firestorm_ufopedia.gif
+  - type: BASEBITS.PCK
+    files:
+      57: Resources/FirestormRestyle/firestorm_base.gif
+  - type: INTICON.PCK
+    files:
+      24: Resources/FirestormRestyle/firestorm_minimised.gif
+      35: Resources/FirestormRestyle/firestorm_dogfight.gif

@@ -1,0 +1,114 @@
+craftWeapons:
+  - type: STR_CANNON_UC
+    damage: 12
+    range: 27
+    accuracy: 44
+    reloadCautious: 4
+    reloadStandard: 4
+    reloadAggressive: 4
+    ammoMax: 500
+    rearmRate: 500
+    projectileSpeed: 10
+  - type: STR_LASER_CANNON_UC
+    damage: 56
+    range: 31
+    accuracy: 69
+    reloadCautious: 16
+    reloadStandard: 16
+    reloadAggressive: 16
+    rearmRate: 25
+    ammoMax: 50
+  - type: STR_STINGRAY
+    damage: 92
+    range: 42
+    accuracy: 53
+    reloadCautious: 32
+    reloadStandard: 32
+    reloadAggressive: 32
+    ammoMax: 8
+    rearmRate: 2
+    projectileSpeed: 12
+  - type: STR_AVALANCHE
+    damage: 140
+    range: 55
+    accuracy: 44
+    reloadCautious: 44
+    reloadStandard: 44
+    reloadAggressive: 44
+    ammoMax: 2
+    rearmRate: 1
+    projectileSpeed: 14
+  - type: STR_PLASMA_BEAM_UC
+    damage: 200
+    range: 52
+    accuracy: 34
+    reloadCautious: 28
+    reloadStandard: 28
+    reloadAggressive: 28
+    ammoMax: 20
+    rearmRate: 4
+    clip: STR_PLASMA_SLUG
+  - type: STR_FUSION_BALL_UC
+    damage: 480
+    range: 60
+    accuracy: 54
+    reloadCautious: 52
+    reloadStandard: 52
+    reloadAggressive: 52
+    ammoMax: 2
+    rearmRate: 1
+    projectileSpeed: 15
+
+items:
+  - type: STR_STINGRAY_LAUNCHER
+    size: 0.8
+    costBuy: 20000
+    costSell: 15000
+    transferTime: 48
+  - type: STR_AVALANCHE_LAUNCHER
+    size: 1.5
+    costBuy: 25000
+    costSell: 17750
+    transferTime: 48
+  - type: STR_CANNON
+    size: 0.6
+    costBuy: 10000
+    costSell: 7500
+    transferTime: 48
+  - type: STR_STINGRAY_MISSILES
+    size: 0.4
+    costBuy: 9000
+    costSell: 6000
+    transferTime: 48
+    clipSize: 1
+  - type: STR_AVALANCHE_MISSILES
+    size: 1.2
+    costBuy: 12000
+    costSell: 9000
+    transferTime: 48
+    clipSize: 1
+  - type: STR_CANNON_ROUNDS_X50
+    size: 0.1
+    costBuy: 1000
+    costSell: 500
+    transferTime: 48
+    clipSize: 50
+  - type: STR_PLASMA_BEAM
+    size: 1.2
+    costSell: 324000
+    listOrder: 1000
+  - type: STR_PLASMA_SLUG
+    size: 0.1
+    costSell: 2280
+    transferTime: 48
+    clipSize: 1
+    listOrder: 1001
+  - type: STR_FUSION_BALL_LAUNCHER
+    size: 2.0
+    costSell: 339000
+  - type: STR_FUSION_BALL
+    size: 1.0
+    costSell: 101000
+  - type: STR_LASER_CANNON
+    size: 0.8
+    costSell: 202400

@@ -1,0 +1,129 @@
+units:
+  - type: STR_TANK_CANNON
+    value: 25
+  - type: STR_TANK_ROCKET_LAUNCHER
+    value: 27
+  - type: STR_TANK_LASER_CANNON
+    value: 30
+  - type: STR_HOVERTANK_PLASMA
+    stats:
+      tu: 90
+      stamina: 100
+      health: 100
+      bravery: 110
+      reactions: 28
+      firing: 60
+      throwing: 0
+      strength: 60
+      psiStrength: 100
+      psiSkill: 0
+      melee: 70
+    value: 38
+  - type: STR_HOVERTANK_LAUNCHER
+    stats:
+      tu: 90
+      stamina: 100
+      health: 100
+      bravery: 110
+      reactions: 28
+      firing: 60
+      throwing: 0
+      strength: 60
+      psiStrength: 100
+      psiSkill: 0
+      melee: 60
+    value: 40
+    
+items:
+  - type: STR_TANK_CANNON
+    size: 6
+    costBuy: 380000
+    costSell: 310000
+    transferTime: 96
+    accuracySnap: 49
+    accuracyAimed: 67
+    tuSnap: 22
+    tuAimed: 57
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+  - type: STR_HWP_CANNON_SHELLS
+    size: 0.1
+    costBuy: 200
+    costSell: 100
+    transferTime: 48
+    weight: 1
+    power: 53
+    clipSize: 30
+  - type: STR_TANK_ROCKET_LAUNCHER
+    accuracySnap: 0
+    accuracyAimed: 88
+    tuSnap: 0
+    tuAimed: 64
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+  - type: STR_HWP_ROCKETS
+    size: 0.6
+    costBuy: 3000
+    costSell: 2250
+    transferTime: 48
+    weight: 1
+    power: 85
+    clipSize: 8
+    blastRadius: 5
+  - type: STR_TANK_LASER_CANNON
+    size: 6
+    costSell: 583000
+    power: 81
+    accuracySnap: 64
+    accuracyAimed: 99
+    tuSnap: 32
+    tuAimed: 70
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    clipSize: 60
+    bulletSprite: 7
+  - type: STR_HOVERTANK_PLASMA
+    size: 6
+    costSell: 1335000
+    accuracySnap: 57
+    accuracyAimed: 85
+    tuSnap: 32
+    tuAimed: 74
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    clipSize: 0
+    listOrder: 600
+    compatibleAmmo:
+      - STR_HWP_PLASMA_SLUG
+  - type: STR_HWP_PLASMA_SLUG
+    size: 0.1
+    costSell: 2030
+    transferTime: 48
+    weight: 1
+    power: 115
+    clipSize: 20
+    hitSound: 19
+    hitAnimation: 46
+    damageType: 5
+    battleType: 2
+    listOrder: 601
+  - type: STR_HOVERTANK_LAUNCHER
+    size: 6
+    costSell: 1830000
+    accuracyAimed: 92
+    tuAimed: 88
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    waypoint: false
+    bulletSprite: 9
+  - type: STR_HWP_FUSION_BOMB
+    size: 0.5
+    costSell: 73600
+    power: 150
+    clipSize: 6
+    blastRadius: 8

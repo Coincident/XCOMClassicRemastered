@@ -1,0 +1,46 @@
+extraSprites:
+  - type: MAN_0F0.SPK
+    singleImage: true
+    files:
+      0: Resources/GenderDetail/man_0f0.png
+  - type: MAN_0F1.SPK
+    singleImage: true
+    files:
+      0: Resources/GenderDetail/man_0f1.png
+  - type: MAN_0F2.SPK
+    singleImage: true
+    files:
+      0: Resources/GenderDetail/man_0f2.png
+  - type: MAN_0F3.SPK
+    singleImage: true
+    files:
+      0: Resources/GenderDetail/man_0f3.png
+  - type: MAN_1F0.SPK
+    singleImage: true
+    files:
+      0: Resources/GenderDetail/man_1f0.png
+  - type: MAN_1F1.SPK
+    singleImage: true
+    files:
+      0: Resources/GenderDetail/man_1f1.png
+  - type: MAN_1F2.SPK
+    singleImage: true
+    files:
+      0: Resources/GenderDetail/man_1f2.png
+  - type: MAN_1F3.SPK
+    singleImage: true
+    files:
+      0: Resources/GenderDetail/man_1f3.png
+  - type: XCOM_0.PCK
+    files:
+      267: Resources/GenderDetail/NoArmor/
+  - type: XCOM_1.PCK
+    files:
+      267: Resources/GenderDetail/PersonalArmor/
+  - type: CIVF.PCK
+    subX: 32
+    subY: 40
+    width: 256
+    height: 400
+    files:
+      0: Resources/GenderDetail/civf.png

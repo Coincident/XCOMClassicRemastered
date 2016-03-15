@@ -1,0 +1,92 @@
+﻿# Improved HandObs Mod provides alternate graphics for all vanilla items that would otherwise use the grenade object. 
+# By IvanDogovich ~ Feel free to use any parts of this mod as you desire.
+# v 1.1 added Elerium crystal HandOb
+# V 1.2  Repackaged the modpack to work with the post May 7, 2015 Nightly folder structure.
+items:
+  - type: STR_MEDI_KIT
+    handSprite: 208
+  - type: STR_HIGH_EXPLOSIVE
+    handSprite: 216
+  - type: STR_MOTION_SCANNER
+    handSprite: 224    
+  - type: STR_PROXIMITY_GRENADE
+    handSprite: 232
+  - type: STR_ELECTRO_FLARE
+    handSprite: 240
+  - type: STR_MIND_PROBE
+    handSprite: 248
+  - type: STR_SMALL_ROCKET
+    handSprite: 256
+  - type: STR_LARGE_ROCKET
+    handSprite: 264
+  - type: STR_INCENDIARY_ROCKET
+    handSprite: 272
+  - type: STR_BLASTER_BOMB
+    handSprite: 280
+  - type: STR_AC_AP_AMMO
+    handSprite: 288
+  - type: STR_AC_HE_AMMO
+    handSprite: 296
+  - type: STR_AC_I_AMMO
+    handSprite: 304
+  - type: STR_HC_AP_AMMO
+    handSprite: 312
+  - type: STR_HC_HE_AMMO
+    handSprite: 320
+  - type: STR_HC_I_AMMO
+    handSprite: 328
+  - type: STR_ALIEN_GRENADE
+    handSprite: 336    
+  - type: STR_SMOKE_GRENADE
+    handSprite: 344
+  - type: STR_RIFLE_CLIP
+    handSprite: 352
+  - type: STR_PISTOL_CLIP
+    handSprite: 360
+  - type: STR_PLASMA_PISTOL_CLIP
+    handSprite: 368
+#  Recolored in Matching Weapon Colors
+#  - type: STR_PLASMA_RIFLE_CLIP
+#    handSprite: 376
+  - type: STR_HEAVY_PLASMA_CLIP
+    handSprite: 384
+  - type: STR_STUN_BOMB
+    handSprite: 392
+  - type: STR_ELERIUM_115
+    handSprite: 496
+    floorSprite: 208
+extraSprites:
+  - type: HANDOB.PCK
+    width: 256
+    height: 40
+    subX: 32
+    subY: 40
+    files:
+      208: Resources/ImprovedHandObs/HandOb_MediKit.gif
+      216: Resources/ImprovedHandObs/HandOb_HE.gif
+      224: Resources/ImprovedHandObs/HandOb_Scanner.gif
+      232: Resources/ImprovedHandObs/HandOb_Proxie.gif
+      240: Resources/ImprovedHandObs/HandOb_ElectroFlare.gif      
+      248: Resources/ImprovedHandObs/HandOb_MindProbe.gif
+      256: Resources/ImprovedHandObs/HandOb_SMRocket.gif
+      264: Resources/ImprovedHandObs/HandOb_LGRocket.gif
+      272: Resources/ImprovedHandObs/HandOb_INRocket.gif
+      280: Resources/ImprovedHandObs/HandOb_BlasterBomb.gif      
+      288: Resources/ImprovedHandObs/HandOb_APAutoCannon.gif
+      296: Resources/ImprovedHandObs/HandOb_HEAutoCannon.gif
+      304: Resources/ImprovedHandObs/HandOb_INAutoCannon.gif
+      312: Resources/ImprovedHandObs/HandOb_APHeavyCannon.gif
+      320: Resources/ImprovedHandObs/HandOb_HEHeavyCannon.gif
+      328: Resources/ImprovedHandObs/HandOb_INHeavyCannon.gif
+      336: Resources/ImprovedHandObs/HandOb_AlienGrenade.gif
+      344: Resources/ImprovedHandObs/HandOb_SmokeGrenade.gif
+      352: Resources/ImprovedHandObs/HandOb_RifleClip.gif
+      360: Resources/ImprovedHandObs/HandOb_PistolClip.gif
+      368: Resources/ImprovedHandObs/HandOb_PPistolClip.gif
+      376: Resources/ImprovedHandObs/HandOb_PRifleClip.gif
+      384: Resources/ImprovedHandObs/HandOb_PHeavyClip.gif
+      392: Resources/ImprovedHandObs/HandOb_StunBomb.gif
+      496: Resources/ImprovedHandObs/HandOb_Elerium.gif
+  - type: FLOOROB.PCK
+    files:
+      208: Resources/ImprovedHandObs/FloorOb_Elerium.gif

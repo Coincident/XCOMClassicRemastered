@@ -1,0 +1,24 @@
+Item Levels mod 1.1
+
+This simple mod makes the aliens retain all three tiers of weapons throughout the game. In the vanilla version, they quickly switch to exclusively Heavy Plasma Guns, which is kinda monotonous.
+Bear in mind that in later months Heavy Plasma still dominates; Plasma Pistols and Plasma Rifles are less common, but they do show up.
+
+Installation:
+- Open the OpenXcom user folder,
+- Open the "mods" folder,
+- Copy the entire "ItemLevels" folder there,
+- Enable the mod from the Game Options menu.
+
+Please post any feedback here:
+http://openxcom.org/forum/index.php/topic,1862.0.html
+
+You can contact me at:
+solar_scorch@o2.pl
+
+Changelog:
+1.1: Updated to the new mod structure.
+1.0: Item Levels edited to preserve all tiers throughout the game.
+
+Feel free to use or alter this mod in any way you wish.
+
+Made by: Solarius Scorch

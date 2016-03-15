@@ -1,0 +1,51 @@
+Alien Research Mod
+==================
+
+In vanilla X-com, It's too easy to get plasma weapons and power suit. Both make your soldiers to walking tanks, with powerful fire and tough armor. Even with these items you cannot prevail Mutons of Ethereals, but the problem is that you can get these too early in the game, when mostly you fight against sectoids or floaters. So I think there should be some STEPs before getting some powerful technologies, like Heavy Plasma or Blaster Launcher.
+
+I put some alien prisoners to reseach into the tech-tree. The detail is in below:
+
+
+# RESEARCHING CHANGES #
+- You must research any alien soldier to research Alien Granade and Plasma Weapons.
+
+- After researching Plasma Weapons, the other (2nd) alien soldier is required to unlock Plama Pistol and Plasma Pistol Clip
+
+- After resarching Plasma Plasma Pistol, another (3rd) alien soldier is required to unlock Plama Rifle. The same thing is applied to Plasma Rifle Clip and Plasma Pistol  Clip.
+
+- Researching Heavy Plasma is the same. You need Another (4th) alien solder to research Heavy Plasam, after researching Plasma Rifle is complete. So as to Heavy Plasma Clip.
+
+- You need Laser Cannon to research Plasma cannon. IMO, researching plasma weapons is just understanding and dead-copying alien technologies, not mastering them. So you need experience of making beam cannon with earch based techlology before applying alien plesma tech to your (human's) own.
+
+- You must research any alien medic to unlock Small Launcher and Stun Bomb.
+
+- You must research any alien engineer to unlock Alen Power Source and Alien Super Weapon, say Blaster Launcher.
+
+- Another (2nd) alien engineer is required to research Blaster Launcer and Blaster Bomb, after Alien Super Weapon research is complete. You find out liitle circumstances about Blaster Launcer when interogating an alien engineer, so deside to interogate another alien engineer to dig up all about Blaster Launcer.
+
+- You need alien navigator's help to understand UFO Navigation and Mind Probe. They are operated with telepathic command, so you don't know even how to use it before seeing a living alien's usage demonstration.
+
+- Reseaching Mind Probe leads you to Alien Communications, because ailens use mechanism of Mind Probe to their communication systems also.
+
+- Another (2nd) alien navigator is required to research Hyper Wave Decoder, after Alien Communications. You need alien navigator's cooperation to cryptanalyze alien's telepathic communication.
+
+- You must research Mind Probe first to research Psi Amp. Both have the same protocol of alien telepathic communication and Psi Amp is made from essencial parts of Mind Prove.
+
+- You need not only Psi Lab but also Hyper Wave Decoder to reseatch Mind Shield. You must know enemy's communication method to deceive them.
+
+- You need to research a live floater or cyberdisc to research Flying Suit, because tiny anti-gravity device in floater or cyberdisc is necessary to develope Flying Suit.
+
+
+# MANUFACTURING CHANGES #
+
+- You need a cyberdisc corpse to manufacture a Hovertank (Plasma/Blaster). Instead, the cost of making hovertanks is reduced by $400,000 each.
+
+- You need a floater corpse to manufacture a Flying Suit. Human have no such subtle technology contolls gravity sensitively enough to conrol human body's attitude in the air, so just use that of aliens.
+
+- You need a Mind Probe to manufacture a Psy-Amp. Main circuit of Mind Probe is used to mimic alien's mind and convert human will to alien-like telepathic command.
+
+
+How to install
+============
+
+Just move or copy the ruleset file (Alien_Research_Mod.rul) to \data\rulset and start OpenXcom, go to the option and click the mod, and select YES to Alien_Research_Mod.

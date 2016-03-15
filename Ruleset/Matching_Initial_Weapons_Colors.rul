@@ -1,0 +1,18 @@
+extraSprites:
+  - type: BIGOBS.PCK
+    files:
+      3: Resources/Matching_Initial_Weapons_Colors/pistol.png
+      7: Resources/Matching_Initial_Weapons_Colors/auto_cannon.png
+      15: Resources/Matching_Initial_Weapons_Colors/rocket_launcher.png
+  - type: FLOOROB.PCK
+    files:
+      7: Resources/Matching_Initial_Weapons_Colors/floorob_auto_cannon.png
+      15: Resources/Matching_Initial_Weapons_Colors/floorob_rocket_launcher.png
+  - type: HANDOB.PCK
+    width: 256
+    height: 40
+    subX: 32
+    subY: 40
+    files:
+      32: Resources/Matching_Initial_Weapons_Colors/handob_auto_cannon.png
+      72: Resources/Matching_Initial_Weapons_Colors/handob_rocket_launcher.png

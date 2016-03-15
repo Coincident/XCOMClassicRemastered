@@ -1,0 +1,21 @@
+items:
+  - type: STR_PLASMA_RIFLE_CLIP
+    handSprite: 408
+extraSprites:
+  - type: BIGOBS.PCK
+    files:
+      31: Resources/Matching_Plasma_Colors/BigOb_Plasma_Rifle.png
+      32: Resources/Matching_Plasma_Colors/BigOb_Plasma_Pistol.png
+      41: Resources/Matching_Plasma_Colors/rifle_clip.png
+      34: Resources/Matching_Plasma_Colors/pistol_clip.png
+  - type: FLOOROB.PCK
+    files:
+      30: Resources/Matching_Plasma_Colors/FloorOb_Plasma_Rifle.png
+  - type: HANDOB.PCK
+    width: 256
+    height: 40
+    subX: 32
+    subY: 40
+    files:
+      48: Resources/Matching_Plasma_Colors/HandOb_Plasma_Rifle.png
+      408: Resources/Matching_Plasma_Colors/handob_rifle_clip.png

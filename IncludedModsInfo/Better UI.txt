@@ -1,0 +1,13 @@
+-Slightly improved UI-
+
+What does this mod do:
+----------------------------------
+Reworks the Time Reserve UI in the tactical screen for easier visualization.
+
+Installation:
+----------------
+To install the mod, just copy the folder named Better_Ingame_UI into your OpenXcom mods folder, activate it in the options and play. The mod does not overwrite anything and can be switched on/off without any problems.
+
+Feel free to use this files in any way you like. (Especially the FMP team!)
+
+Civilian aka New_Civilian

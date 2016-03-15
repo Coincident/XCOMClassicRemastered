@@ -1,0 +1,28 @@
+
+-------------------------------------------------------------------------------------------------------------
+					Power Suit/Flying suit sprite replacement for OpenXcom
+-------------------------------------------------------------------------------------------------------------
+
+Description:
+
+ Simple addon to OpenXCom which replaces the helmets on power and flying suits,
+ includes individual inventory ragdolls for race, and individual sprites for corpses.
+
+-------------------------------------------------------------------------------------------------------------
+
+to install:
+
+simply extract to your data folder (e.g., X:\OpenXcom\Data)
+add the following line to the end of your options.cfg:
+
+  - MoriartyArmor
+
+*note: for now,you need openxcom 0.9 with the latest git build -> http://openxcom.org/index.php/git-builds/ 
+       Options.cfg can be found from your documents/OpenXcom folder.
+
+--------------------------------------------------------------------------------------------------------------
+
+Credits:
+
+Sprites: Moriarty and BombBloke
+Code: Warboy1982

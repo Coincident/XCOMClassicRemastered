@@ -1,0 +1,813 @@
+units:
+  - type: STR_FLOATER_SOLDIER
+    stats:
+      tu: 50
+      stamina: 90
+      health: 35
+      bravery: 80
+      reactions: 50
+      firing: 55
+      throwing: 58
+      strength: 44
+      psiStrength: 35
+      psiSkill: 0
+      melee: 70
+    value: 5
+  - type: STR_FLOATER_ENGINEER
+    stats:
+      tu: 50
+      stamina: 90
+      health: 35
+      bravery: 80
+      reactions: 50
+      firing: 55
+      throwing: 58
+      strength: 44
+      psiStrength: 35
+      psiSkill: 0
+      melee: 70
+    value: 6
+    aggression: 1
+  - type: STR_FLOATER_NAVIGATOR
+    stats:
+      tu: 50
+      stamina: 90
+      health: 35
+      bravery: 80
+      reactions: 50
+      firing: 55
+      throwing: 58
+      strength: 44
+      psiStrength: 35
+      psiSkill: 0
+      melee: 70
+    value: 6
+    aggression: 0
+  - type: STR_FLOATER_MEDIC
+    stats:
+      tu: 50
+      stamina: 90
+      health: 35
+      bravery: 80
+      reactions: 50
+      firing: 55
+      throwing: 58
+      strength: 44
+      psiStrength: 35
+      psiSkill: 0
+      melee: 70
+    value: 7
+  - type: STR_FLOATER_LEADER
+    stats:
+      tu: 55
+      stamina: 95
+      health: 40
+      bravery: 80
+      reactions: 60
+      firing: 66
+      throwing: 60
+      strength: 53
+      psiStrength: 40
+      psiSkill: 0
+      melee: 70
+    value: 8
+  - type: STR_FLOATER_COMMANDER
+    stats:
+      tu: 60
+      stamina: 100
+      health: 45
+      bravery: 80
+      reactions: 66
+      firing: 70
+      throwing: 65
+      strength: 57
+      psiStrength: 45
+      psiSkill: 0
+      melee: 76
+    value: 9
+
+  - type: STR_SECTOID_SOLDIER
+    stats:
+      tu: 54
+      stamina: 90
+      health: 30
+      bravery: 80
+      reactions: 63
+      firing: 57
+      throwing: 58
+      strength: 36
+      psiStrength: 40
+      psiSkill: 0
+      melee: 76
+    value: 5
+  - type: STR_SECTOID_ENGINEER
+    stats:
+      tu: 54
+      stamina: 90
+      health: 30
+      bravery: 80
+      reactions: 63
+      firing: 57
+      throwing: 58
+      strength: 36
+      psiStrength: 40
+      psiSkill: 0
+      melee: 76
+    value: 6
+  - type: STR_SECTOID_MEDIC
+    stats:
+      tu: 54
+      stamina: 90
+      health: 30
+      bravery: 80
+      reactions: 63
+      firing: 57
+      throwing: 58
+      strength: 36
+      psiStrength: 40
+      psiSkill: 0
+      melee: 76
+    value: 7
+  - type: STR_SECTOID_NAVIGATOR
+    stats:
+      tu: 54
+      stamina: 90
+      health: 30
+      bravery: 80
+      reactions: 63
+      firing: 57
+      throwing: 58
+      strength: 36
+      psiStrength: 40
+      psiSkill: 0
+      melee: 76
+    value: 6
+  - type: STR_SECTOID_LEADER
+    stats:
+      tu: 54
+      stamina: 90
+      health: 30
+      bravery: 80
+      reactions: 63
+      firing: 60
+      throwing: 58
+      strength: 39
+      psiStrength: 50
+      psiSkill: 50
+      melee: 76
+    value: 10
+    aggression: 0
+  - type: STR_SECTOID_COMMANDER
+    stats:
+      tu: 54
+      stamina: 90
+      health: 30
+      bravery: 80
+      reactions: 63
+      firing: 60
+      throwing: 58
+      strength: 41
+      psiStrength: 60
+      psiSkill: 60
+      melee: 76
+    value: 11
+      
+  - type: STR_SNAKEMAN_SOLDIER
+    stats:
+      tu: 70
+      stamina: 98
+      health: 40
+      bravery: 80
+      reactions: 63
+      firing: 68
+      throwing: 65
+      strength: 50
+      psiStrength: 40
+      psiSkill: 0
+      melee: 60
+    intelligence: 3
+    energyRecovery: 40
+    value: 8
+    meleeWeapon: STR_SNAKEMAN_MELEE_WEAPON
+  - type: STR_SNAKEMAN_NAVIGATOR
+    stats:
+      tu: 70
+      stamina: 98
+      health: 40
+      bravery: 80
+      reactions: 63
+      firing: 68
+      throwing: 65
+      strength: 50
+      psiStrength: 40
+      psiSkill: 0
+      melee: 60
+    intelligence: 4
+    energyRecovery: 40
+    value: 9
+    meleeWeapon: STR_SNAKEMAN_MELEE_WEAPON
+  - type: STR_SNAKEMAN_ENGINEER
+    stats:
+      tu: 70
+      stamina: 98
+      health: 40
+      bravery: 80
+      reactions: 63
+      firing: 68
+      throwing: 65
+      strength: 50
+      psiStrength: 40
+      psiSkill: 0
+      melee: 60
+    intelligence: 5
+    energyRecovery: 40
+    value: 9
+    meleeWeapon: STR_SNAKEMAN_MELEE_WEAPON
+  - type: STR_SNAKEMAN_LEADER
+    stats:
+      tu: 70
+      stamina: 98
+      health: 40
+      bravery: 80
+      reactions: 65
+      firing: 75
+      throwing: 67
+      strength: 52
+      psiStrength: 45
+      psiSkill: 0
+      melee: 60
+    intelligence: 6
+    energyRecovery: 40
+    value: 10
+    meleeWeapon: STR_SNAKEMAN_MELEE_WEAPON
+  - type: STR_SNAKEMAN_COMMANDER
+    stats:
+      tu: 75
+      stamina: 100
+      health: 45
+      bravery: 80
+      reactions: 68
+      firing: 79
+      throwing: 70
+      strength: 55
+      psiStrength: 50
+      psiSkill: 0
+      melee: 60
+    intelligence: 7
+    energyRecovery: 40
+    value: 11
+    meleeWeapon: STR_SNAKEMAN_MELEE_WEAPON
+
+  - type: STR_ETHEREAL_SOLDIER
+    stats:
+      tu: 68
+      stamina: 96
+      health: 55
+      bravery: 80
+      reactions: 75
+      firing: 80
+      throwing: 80
+      strength: 53
+      psiStrength: 50
+      psiSkill: 40
+      melee: 85
+    value: 10
+  - type: STR_ETHEREAL_LEADER
+    stats:
+      tu: 68
+      stamina: 96
+      health: 55
+      bravery: 80
+      reactions: 75
+      firing: 80
+      throwing: 80
+      strength: 53
+      psiStrength: 60
+      psiSkill: 50
+      melee: 85
+    value: 12
+  - type: STR_ETHEREAL_COMMANDER
+    stats:
+      tu: 68
+      stamina: 96
+      health: 55
+      bravery: 80
+      reactions: 75
+      firing: 80
+      throwing: 80
+      strength: 55
+      psiStrength: 65
+      psiSkill: 60
+      melee: 85
+    value: 14
+    aggression: 0
+
+  - type: STR_MUTON_SOLDIER
+    stats:
+      tu: 54
+      stamina: 90
+      health: 125
+      bravery: 80
+      reactions: 58
+      firing: 64
+      throwing: 62
+      strength: 70
+      psiStrength: 40
+      psiSkill: 0
+      melee: 70
+    intelligence: 3
+    value: 9
+    meleeWeapon: STR_MUTON_MELEE_WEAPON
+  - type: STR_MUTON_NAVIGATOR
+    stats:
+      tu: 54
+      stamina: 90
+      health: 125
+      bravery: 80
+      reactions: 58
+      firing: 64
+      throwing: 62
+      strength: 70
+      psiStrength: 40
+      psiSkill: 0
+      melee: 70
+    intelligence: 4
+    value: 10
+    meleeWeapon: STR_MUTON_MELEE_WEAPON
+  - type: STR_MUTON_ENGINEER
+    stats:
+      tu: 54
+      stamina: 90
+      health: 125
+      bravery: 80
+      reactions: 58
+      firing: 64
+      throwing: 62
+      strength: 70
+      psiStrength: 40
+      psiSkill: 0
+      melee: 70
+    intelligence: 5
+    value: 10
+    meleeWeapon: STR_MUTON_MELEE_WEAPON
+
+  - type: STR_REAPER_TERRORIST
+    stats:
+      tu: 90
+      stamina: 100
+      health: 148
+      bravery: 90
+      reactions: 64
+      firing: 0
+      throwing: 0
+      strength: 90
+      psiStrength: 100
+      psiSkill: 0
+      melee: 80
+    intelligence: 3
+    energyRecovery: 45
+    value: 6
+    
+  - type: STR_CHRYSSALID_TERRORIST
+    stats:
+      tu: 110
+      stamina: 120
+      health: 96
+      bravery: 100
+      reactions: 70
+      firing: 0
+      throwing: 0
+      strength: 110
+      psiStrength: 50
+      psiSkill: 0
+      melee: 80
+    intelligence: 4
+    aggression: 2
+    energyRecovery: 34
+    value: 9
+
+  - type: STR_SILACOID_TERRORIST
+    stats:
+      tu: 62
+      stamina: 90
+      health: 114
+      bravery: 100
+      reactions: 64
+      firing: 0
+      throwing: 0
+      strength: 75
+      psiStrength: 1
+      psiSkill: 0
+      melee: 80
+    intelligence: 4
+    energyRecovery: 40
+    value: 7
+
+  - type: STR_CELATID_TERRORIST
+    stats:
+      tu: 70
+      stamina: 90
+      health: 68
+      bravery: 90
+      reactions: 40
+      firing: 80
+      throwing: 0
+      strength: 70
+      psiStrength: 50
+      psiSkill: 0
+      melee: 80
+    energyRecovery: 40
+    value: 8
+
+  - type: STR_SECTOPOD_TERRORIST
+    stats:
+      tu: 70
+      stamina: 90
+      health: 120
+      bravery: 110
+      reactions: 64
+      firing: 66
+      throwing: 0
+      strength: 90
+      psiStrength: 100
+      psiSkill: 0
+      melee: 80
+    intelligence: 5
+    energyRecovery: 50
+    value: 12
+    
+  - type: STR_CYBERDISC_TERRORIST
+    stats:
+      tu: 62
+      stamina: 90
+      health: 120
+      bravery: 110
+      reactions: 64
+      firing: 60
+      throwing: 0
+      strength: 90
+      psiStrength: 100
+      psiSkill: 0
+      melee: 0
+    intelligence: 5
+    energyRecovery: 50
+    value: 11
+
+  - type: STR_ZOMBIE
+    stats:
+      tu: 40
+      stamina: 100
+      health: 84
+      bravery: 110
+      reactions: 40
+      firing: 0
+      throwing: 0
+      strength: 84
+      psiStrength: 80
+      psiSkill: 0
+      melee: 80
+    intelligence: 2
+    energyRecovery: 20
+    value: 5
+    
+armors:
+  - type: SNAKEMAN_ARMOR0
+    frontArmor: 20
+    sideArmor: 18
+    rearArmor: 16
+    underArmor: 12
+    damageModifier:
+      - 1.0
+      - 1.0
+      - 0.7
+      - 0.85
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 0.0
+    loftempsSet: [ 5 ]
+  - type: SNAKEMAN_ARMOR1
+    frontArmor: 25
+    sideArmor: 24
+    rearArmor: 22
+    underArmor: 20
+    damageModifier:
+      - 1.0
+      - 1.0
+      - 0.7
+      - 0.85
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 0.0
+    loftempsSet: [ 5 ]
+  - type: SNAKEMAN_ARMOR2
+    frontArmor: 27
+    sideArmor: 26
+    rearArmor: 22
+    underArmor: 20
+    damageModifier:
+      - 1.0
+      - 1.0
+      - 0.7
+      - 0.85
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 0.0
+    loftempsSet: [ 5 ]
+
+  - type: ETHEREAL_ARMOR0
+    frontArmor: 36
+    sideArmor: 35
+    rearArmor: 34
+    underArmor: 33
+    damageModifier:
+      - 1.0
+      - 0.6
+      - 0.68
+      - 0.8
+      - 1.0
+      - 1.0
+      - 0.8
+      - 1.0
+      - 1.0
+      - 0.0
+    loftempsSet: [ 4 ]
+  - type: ETHEREAL_ARMOR1
+    frontArmor: 41
+    sideArmor: 40
+    rearArmor: 39
+    underArmor: 38
+    damageModifier:
+      - 1.0
+      - 0.6
+      - 0.68
+      - 0.8
+      - 1.0
+      - 1.0
+      - 0.8
+      - 1.0
+      - 1.0
+      - 0.0
+    loftempsSet: [ 4 ]
+  - type: ETHEREAL_ARMOR2
+    frontArmor: 46
+    sideArmor: 45
+    rearArmor: 44
+    underArmor: 43
+    damageModifier:
+      - 1.0
+      - 0.6
+      - 0.68
+      - 0.8
+      - 1.0
+      - 1.0
+      - 0.8
+      - 1.0
+      - 1.0
+      - 0.0
+    loftempsSet: [ 4 ]
+
+  - type: MUTON_ARMOR0
+    frontArmor: 32
+    sideArmor: 31
+    rearArmor: 30
+    underArmor: 26
+    damageModifier:
+      - 1.0
+      - 0.5
+      - 1.4
+      - 0.7
+      - 0.75
+      - 0.8
+      - 1.0
+      - 1.0
+      - 1.2
+      - 0.0
+    loftempsSet: [ 4 ]
+  - type: MUTON_ARMOR1
+    frontArmor: 34
+    sideArmor: 33
+    rearArmor: 32
+    underArmor: 28
+    damageModifier:
+      - 1.0
+      - 0.5
+      - 1.4
+      - 0.7
+      - 0.75
+      - 0.8
+      - 1.0
+      - 1.0
+      - 1.2
+      - 0.0
+    loftempsSet: [ 4 ]
+  - type: MUTON_ARMOR2
+    frontArmor: 36
+    sideArmor: 35
+    rearArmor: 34
+    underArmor: 30
+    damageModifier:
+      - 1.0
+      - 0.5
+      - 1.4
+      - 0.7
+      - 0.75
+      - 0.8
+      - 1.0
+      - 1.0
+      - 1.2
+      - 0.0
+    loftempsSet: [ 4 ]
+
+  - type: REAPER_ARMOR
+    frontArmor: 30
+    sideArmor: 30
+    rearArmor: 30
+    underArmor: 8
+    damageModifier:
+      - 1.0
+      - 0.90
+      - 1.4
+      - 1.2
+      - 1.1
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.3
+      - 0.0
+    loftempsSet: [ 92, 89, 90, 91 ]
+
+  - type: CHRYSSALID_ARMOR
+    frontArmor: 34
+    sideArmor: 34
+    rearArmor: 34
+    underArmor: 34
+    damageModifier:
+      - 1.0
+      - 1.0
+      - 0.8
+      - 1.0
+      - 1.0
+      - 1.0
+      - 0.9
+      - 1.0
+      - 1.15
+      - 0.0
+    loftempsSet: [ 4 ]
+
+  - type: SILACOID_ARMOR
+    frontArmor: 50
+    sideArmor: 50
+    rearArmor: 50
+    underArmor: 28
+    damageModifier:
+      - 1.0
+      - 0.82
+      - 0.0
+      - 1.1
+      - 0.9
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.1
+      - 0.0
+    loftempsSet: [ 5 ]
+
+  - type: CELATID_ARMOR
+    frontArmor: 20
+    sideArmor: 20
+    rearArmor: 20
+    underArmor: 20
+    damageModifier:
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.2
+      - 1.4
+      - 0.0
+    loftempsSet: [ 3 ]
+
+  - type: SECTOPOD_ARMOR
+    frontArmor: 130
+    sideArmor: 115
+    rearArmor: 90
+    underArmor: 80
+    damageModifier:
+      - 1.0
+      - 0.8
+      - 0.8
+      - 0.6
+      - 1.5
+      - 0.8
+      - 0.0
+      - 1.0
+      - 0.75
+      - 0.0
+    loftempsSet: [ 92, 89, 90, 91 ]
+
+  - type: CYBERDISC_ARMOR
+    frontArmor: 34
+    sideArmor: 34
+    rearArmor: 34
+    underArmor: 34
+    damageModifier:
+      - 1.0
+      - 0.8
+      - 0.8
+      - 0.6
+      - 1.2
+      - 0.8
+      - 0.0
+      - 1.0
+      - 0.75
+      - 0.0
+    loftempsSet: [ 92, 89, 90, 91 ]
+
+  - type: ZOMBIE_ARMOR
+    frontArmor: 4
+    sideArmor: 4
+    rearArmor: 4
+    underArmor: 4
+    damageModifier:
+      - 1.0
+      - 0.6
+      - 1.0
+      - 0.8
+      - 0.7
+      - 0.7
+      - 0.0
+      - 1.0
+      - 1.3
+      - 0.0
+    loftempsSet: [ 4 ]
+      
+items:
+  - type: CELATID_WEAPON
+    accuracySnap: 70
+    accuracyAimed: 99
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+  - type: SECTOPOD_WEAPON
+    accuracyAuto: 48
+    accuracySnap: 70
+    accuracyAimed: 99
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    damageType: 4
+    bulletSprite: 7
+    fireSound: 11
+    hitSound: 19
+    hitAnimation: 36
+  - type: CYBERDISC_WEAPON
+    accuracySnap: 70
+    accuracyAimed: 99
+    autoRange: 8
+    snapRange: 15
+    aimRange: 38
+    damageType: 4
+    bulletSprite: 7
+    fireSound: 11
+    hitSound: 19
+    hitAnimation: 36
+  - type: STR_SNAKEMAN_MELEE_WEAPON
+    bigSprite: -1
+    meleeSound: 49
+    strengthApplied: true
+    damageType: 7
+    accuracyMelee: 100
+    tuMelee: 15
+    battleType: 3
+    fixedWeapon: true
+    invWidth: 2
+    invHeight: 3
+    clipSize: -1
+    recover: false
+    flatRate: true
+  - type: STR_MUTON_MELEE_WEAPON
+    bigSprite: -5
+    meleeSound: 48
+    strengthApplied: true
+    damageType: 7
+    accuracyMelee: 100
+    tuMelee: 15
+    battleType: 3
+    fixedWeapon: true
+    invWidth: 2
+    invHeight: 3
+    clipSize: -1
+    recover: false
+    flatRate: true

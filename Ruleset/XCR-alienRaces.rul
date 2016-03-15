@@ -1,0 +1,497 @@
+# MixedCrew Mod made by Mackus
+alienRaces: # engineers and navigators vary, rest is generally the same
+  # 10 Mixed crews without psionics (from very-hard to medium-hard)
+  - id: STR_MIXED_CREW_0
+    members: # Very-Hard: Ethereals, Mutons, Sectopods and Celatids. Psionics present even in Small Scouts.
+      - STR_ETHEREAL_COMMANDER
+      - STR_ETHEREAL_LEADER
+      - STR_MUTON_ENGINEER
+      - STR_MUTON_SOLDIER
+      - STR_MUTON_NAVIGATOR
+      - STR_ETHEREAL_SOLDIER
+      - STR_SECTOPOD_TERRORIST
+      - STR_CELATID_TERRORIST
+  - id: STR_MIXED_CREW_1
+    members: # Very-Hard: Ethereals, Snakeman, Sectopods and Chrysalids. Psionics present in Medium / Large Scouts.
+      - STR_ETHEREAL_COMMANDER
+      - STR_ETHEREAL_LEADER
+      - STR_ETHEREAL_SOLDIER
+      - STR_SNAKEMAN_ENGINEER
+      - STR_SNAKEMAN_NAVIGATOR
+      - STR_SNAKEMAN_SOLDIER
+      - STR_SECTOPOD_TERRORIST
+      - STR_CHRYSSALID_TERRORIST
+  - id: STR_MIXED_CREW_2
+    members: # Very-Hard: Ethereals, Sectoids, Sectopods and Cyberdisks. Psionics present in Medium / Large Scouts.
+      - STR_ETHEREAL_COMMANDER
+      - STR_SECTOID_LEADER
+      - STR_ETHEREAL_LEADER
+      - STR_SECTOID_MEDIC
+      - STR_ETHEREAL_SOLDIER
+      - STR_SECTOID_SOLDIER
+      - STR_SECTOPOD_TERRORIST
+      - STR_CYBERDISC_TERRORIST
+  - id: STR_MIXED_CREW_3
+    members: # Hard: Ethereals, Sectoids, Sectopods and Cyberdisks
+      - STR_ETHEREAL_COMMANDER
+      - STR_ETHEREAL_LEADER
+      - STR_SECTOID_ENGINEER
+      - STR_SECTOID_MEDIC
+      - STR_SECTOID_NAVIGATOR
+      - STR_SECTOID_SOLDIER
+      - STR_SECTOPOD_TERRORIST
+      - STR_CYBERDISC_TERRORIST
+  - id: STR_MIXED_CREW_4
+    members: # Hard: Ethereals, Mutons, Sectopods and Silacoids
+      - STR_ETHEREAL_COMMANDER
+      - STR_ETHEREAL_LEADER
+      - STR_MUTON_ENGINEER
+      - STR_MUTON_SOLDIER
+      - STR_MUTON_NAVIGATOR
+      - STR_MUTON_SOLDIER
+      - STR_SECTOPOD_TERRORIST
+      - STR_SILACOID_TERRORIST
+  - id: STR_MIXED_CREW_5
+    members: # Hard: Ethereals, Floaters, Sectopods and Reapers
+      - STR_ETHEREAL_COMMANDER
+      - STR_ETHEREAL_LEADER
+      - STR_FLOATER_ENGINEER
+      - STR_FLOATER_MEDIC
+      - STR_FLOATER_NAVIGATOR
+      - STR_FLOATER_SOLDIER
+      - STR_SECTOPOD_TERRORIST
+      - STR_REAPER_TERRORIST
+  - id: STR_MIXED_CREW_6
+    members: # Medium-Hard: Sectoids, Mutons, Cyberdisks and Celatids
+      - STR_SECTOID_COMMANDER
+      - STR_SECTOID_LEADER
+      - STR_MUTON_ENGINEER
+      - STR_SECTOID_MEDIC
+      - STR_MUTON_NAVIGATOR
+      - STR_MUTON_SOLDIER
+      - STR_CYBERDISC_TERRORIST
+      - STR_CELATID_TERRORIST
+  - id: STR_MIXED_CREW_7
+    members: # Medium-Hard: Sectoids, Mutons, Cyberdisks and Silacoids
+      - STR_SECTOID_COMMANDER
+      - STR_SECTOID_LEADER
+      - STR_MUTON_ENGINEER
+      - STR_SECTOID_MEDIC
+      - STR_MUTON_NAVIGATOR
+      - STR_MUTON_SOLDIER
+      - STR_CYBERDISC_TERRORIST
+      - STR_SILACOID_TERRORIST
+  - id: STR_MIXED_CREW_8
+    members: # Medium-Hard: Sectoids, Snakeman, Cyberdisks and Chrysalids
+      - STR_SECTOID_COMMANDER
+      - STR_SECTOID_LEADER
+      - STR_SNAKEMAN_ENGINEER
+      - STR_SECTOID_MEDIC
+      - STR_SNAKEMAN_NAVIGATOR
+      - STR_SNAKEMAN_SOLDIER
+      - STR_CYBERDISC_TERRORIST
+      - STR_CHRYSSALID_TERRORIST
+  - id: STR_MIXED_CREW_9
+    members: # Medium-Hard: Sectoids, Floaters, Cyberdisks and Reapers
+      - STR_SECTOID_COMMANDER
+      - STR_SECTOID_LEADER
+      - STR_FLOATER_ENGINEER
+      - STR_SECTOID_MEDIC
+      - STR_FLOATER_NAVIGATOR
+      - STR_FLOATER_SOLDIER
+      - STR_CYBERDISC_TERRORIST
+      - STR_REAPER_TERRORIST
+  # 6 Mixed crews without psionics (from medium-hard to medium-easy)
+  - id: STR_MIXED_CREW_A
+    members: # Medium-Hard: Mutons, Snakeman, Celatids and Chrysalids
+      - STR_SNAKEMAN_COMMANDER
+      - STR_SNAKEMAN_LEADER
+      - STR_MUTON_ENGINEER
+      - STR_MUTON_SOLDIER
+      - STR_SNAKEMAN_NAVIGATOR
+      - STR_MUTON_SOLDIER
+      - STR_CELATID_TERRORIST
+      - STR_CHRYSSALID_TERRORIST
+  - id: STR_MIXED_CREW_B
+    members: # Medium-Hard: Mutons, Sectoids, Silacoids and Cyberdisks
+      - STR_MUTON_SOLDIER
+      - STR_MUTON_SOLDIER
+      - STR_SECTOID_ENGINEER
+      - STR_SECTOID_MEDIC
+      - STR_SECTOID_NAVIGATOR
+      - STR_MUTON_SOLDIER
+      - STR_SILACOID_TERRORIST
+      - STR_CYBERDISC_TERRORIST
+  - id: STR_MIXED_CREW_C
+    members: # Medium: Mutons, Floaters, Silacoids and Reapers
+      - STR_FLOATER_COMMANDER
+      - STR_FLOATER_LEADER
+      - STR_MUTON_ENGINEER
+      - STR_FLOATER_MEDIC
+      - STR_MUTON_NAVIGATOR
+      - STR_MUTON_SOLDIER
+      - STR_SILACOID_TERRORIST
+      - STR_REAPER_TERRORIST
+  - id: STR_MIXED_CREW_D
+    members: # Medium: Snakeman, Sectoids, Chrysalids and Cyberdisks
+      - STR_SNAKEMAN_COMMANDER
+      - STR_SNAKEMAN_LEADER
+      - STR_SNAKEMAN_ENGINEER
+      - STR_SECTOID_MEDIC
+      - STR_SECTOID_NAVIGATOR
+      - STR_SECTOID_SOLDIER
+      - STR_CHRYSSALID_TERRORIST
+      - STR_CYBERDISC_TERRORIST
+  - id: STR_MIXED_CREW_E
+    members: # Medium-Easy: Snakeman, Floaters, Chrysalids and Reapers
+      - STR_SNAKEMAN_COMMANDER
+      - STR_SNAKEMAN_LEADER
+      - STR_SNAKEMAN_ENGINEER
+      - STR_FLOATER_MEDIC
+      - STR_FLOATER_NAVIGATOR
+      - STR_FLOATER_SOLDIER
+      - STR_CHRYSSALID_TERRORIST
+      - STR_REAPER_TERRORIST
+  - id: STR_MIXED_CREW_F
+    members: # Medium-Easy: Floaters, Sectoids, Reapers and Cyberdisks
+      - STR_FLOATER_COMMANDER
+      - STR_FLOATER_LEADER
+      - STR_FLOATER_ENGINEER
+      - STR_SECTOID_MEDIC
+      - STR_SECTOID_NAVIGATOR
+      - STR_SECTOID_SOLDIER
+      - STR_REAPER_TERRORIST
+      - STR_CYBERDISC_TERRORIST
+      
+  # Small balance fix for pure ethereal crew: fewer leaders; more soldiers deployed (harder to capture leaders)
+  - id: STR_ETHEREAL
+    members:
+      - STR_ETHEREAL_COMMANDER
+      - STR_ETHEREAL_LEADER
+      - STR_ETHEREAL_SOLDIER
+      - STR_ETHEREAL_SOLDIER
+      - STR_ETHEREAL_SOLDIER
+      - STR_ETHEREAL_SOLDIER
+      - STR_SECTOPOD_TERRORIST
+      - STR_SECTOPOD_TERRORIST
+      
+alienMissions:
+  - type: STR_ALIEN_RESEARCH
+    raceWeights:
+      0:
+          STR_SECTOID: 70
+          STR_SNAKEMAN: 10
+          STR_FLOATER: 20
+      1:
+          STR_SECTOID: 60
+          STR_SNAKEMAN: 10
+          STR_FLOATER: 30
+      3:
+          STR_SECTOID: 30
+          STR_SNAKEMAN: 10
+          STR_MUTON: 30
+          STR_FLOATER: 30
+      5:
+          STR_SECTOID: 20
+          STR_SNAKEMAN: 10
+          STR_MUTON: 40
+          STR_FLOATER: 30
+      7:
+          STR_SECTOID: 30
+          STR_SNAKEMAN: 10
+          STR_MUTON: 30
+          STR_FLOATER: 30
+  - type: STR_ALIEN_HARVEST
+    raceWeights:
+      0:
+          STR_SECTOID: 50
+          STR_SNAKEMAN: 20
+          STR_FLOATER: 30
+      1:
+          STR_SECTOID: 50
+          STR_FLOATER: 50
+      3:
+          STR_SECTOID: 30
+          STR_MUTON: 30
+          STR_FLOATER: 40
+      5:
+          STR_SECTOID: 10
+          STR_MUTON: 40
+          STR_FLOATER: 50
+      7:
+          STR_SECTOID: 15
+          STR_MUTON: 15
+          STR_FLOATER: 20
+          STR_MIXED_CREW_6: 7
+          STR_MIXED_CREW_7: 7
+          STR_MIXED_CREW_9: 10
+          STR_MIXED_CREW_B: 8
+          STR_MIXED_CREW_C: 9
+          STR_MIXED_CREW_F: 9
+      9:
+          STR_SECTOID: 15
+          STR_MUTON: 20
+          STR_FLOATER: 15
+          STR_MIXED_CREW_5: 6
+          STR_MIXED_CREW_6: 7
+          STR_MIXED_CREW_7: 6
+          STR_MIXED_CREW_9: 6
+          STR_MIXED_CREW_A: 6
+          STR_MIXED_CREW_B: 7
+          STR_MIXED_CREW_C: 6
+          STR_MIXED_CREW_F: 6
+  - type: STR_ALIEN_ABDUCTION
+    raceWeights:
+      0:
+          STR_SECTOID: 60
+          STR_FLOATER: 40
+      1:
+          STR_SECTOID: 40
+          STR_FLOATER: 60
+      3:
+          STR_SECTOID: 50
+          STR_FLOATER: 50
+      5:
+          STR_SECTOID: 30
+          STR_FLOATER: 70
+      7:
+          STR_SECTOID: 25
+          STR_FLOATER: 25
+          STR_MIXED_CREW_9: 25
+          STR_MIXED_CREW_F: 25
+      9:
+          STR_SECTOID: 25
+          STR_FLOATER: 25
+          STR_MIXED_CREW_5: 12
+          STR_MIXED_CREW_9: 13
+          STR_MIXED_CREW_D: 12
+          STR_MIXED_CREW_F: 13
+  - type: STR_ALIEN_INFILTRATION
+    raceWeights:
+      0:
+          STR_SECTOID: 60
+          STR_SNAKEMAN: 20
+          STR_FLOATER: 20
+      1:
+          STR_SECTOID: 50
+          STR_SNAKEMAN: 20
+          STR_FLOATER: 30
+      3:
+          STR_SECTOID: 20
+          STR_SNAKEMAN: 20
+          STR_MUTON: 50
+          STR_FLOATER: 10
+      5:
+          STR_SECTOID: 10
+          STR_SNAKEMAN: 10
+          STR_ETHEREAL: 40
+          STR_MUTON: 30
+          STR_FLOATER: 10
+      7:
+          STR_SECTOID: 10
+          STR_SNAKEMAN: 10
+          STR_ETHEREAL: 5
+          STR_MUTON: 20
+          STR_FLOATER: 5
+          STR_MIXED_CREW_0: 4
+          STR_MIXED_CREW_1: 2
+          STR_MIXED_CREW_2: 2
+          STR_MIXED_CREW_3: 2
+          STR_MIXED_CREW_4: 4
+          STR_MIXED_CREW_5: 1
+          STR_MIXED_CREW_6: 5
+          STR_MIXED_CREW_7: 5
+          STR_MIXED_CREW_8: 3
+          STR_MIXED_CREW_9: 2
+          STR_MIXED_CREW_A: 5
+          STR_MIXED_CREW_B: 5
+          STR_MIXED_CREW_C: 4
+          STR_MIXED_CREW_D: 3
+          STR_MIXED_CREW_E: 2
+          STR_MIXED_CREW_F: 1
+      9:
+          STR_SECTOID: 5
+          STR_SNAKEMAN: 5
+          STR_ETHEREAL: 15
+          STR_MUTON: 20
+          STR_FLOATER: 5
+          STR_MIXED_CREW_0: 6
+          STR_MIXED_CREW_1: 3
+          STR_MIXED_CREW_2: 3
+          STR_MIXED_CREW_3: 3
+          STR_MIXED_CREW_4: 3
+          STR_MIXED_CREW_5: 3
+          STR_MIXED_CREW_6: 4
+          STR_MIXED_CREW_7: 4
+          STR_MIXED_CREW_8: 2
+          STR_MIXED_CREW_9: 2
+          STR_MIXED_CREW_A: 4
+          STR_MIXED_CREW_B: 4
+          STR_MIXED_CREW_C: 4
+          STR_MIXED_CREW_D: 2
+          STR_MIXED_CREW_E: 2
+          STR_MIXED_CREW_F: 1
+  - type: STR_ALIEN_BASE
+    raceWeights:
+      0:
+          STR_SECTOID: 30
+          STR_SNAKEMAN: 20
+          STR_FLOATER: 50
+      1:
+          STR_SECTOID: 40
+          STR_SNAKEMAN: 20
+          STR_FLOATER: 40
+      3:
+          STR_SECTOID: 10
+          STR_SNAKEMAN: 40
+          STR_MUTON: 30
+          STR_FLOATER: 20
+      5:
+          STR_SECTOID: 10
+          STR_SNAKEMAN: 40
+          STR_ETHEREAL: 10
+          STR_MUTON: 20
+          STR_FLOATER: 20
+      7:
+          STR_SECTOID: 5
+          STR_SNAKEMAN: 10
+          STR_ETHEREAL: 20
+          STR_MUTON: 10
+          STR_FLOATER: 5
+          STR_MIXED_CREW_0: 6
+          STR_MIXED_CREW_1: 5
+          STR_MIXED_CREW_2: 5
+          STR_MIXED_CREW_3: 5
+          STR_MIXED_CREW_4: 5
+          STR_MIXED_CREW_5: 4
+          STR_MIXED_CREW_6: 3
+          STR_MIXED_CREW_7: 2
+          STR_MIXED_CREW_8: 2
+          STR_MIXED_CREW_9: 1
+          STR_MIXED_CREW_A: 3
+          STR_MIXED_CREW_B: 2
+          STR_MIXED_CREW_C: 2
+          STR_MIXED_CREW_D: 2
+          STR_MIXED_CREW_E: 2
+          STR_MIXED_CREW_F: 1
+      9:
+          STR_SECTOID: 2
+          STR_SNAKEMAN: 5
+          STR_ETHEREAL: 25
+          STR_MUTON: 15
+          STR_FLOATER: 3
+          STR_MIXED_CREW_0: 7
+          STR_MIXED_CREW_1: 7
+          STR_MIXED_CREW_2: 6
+          STR_MIXED_CREW_3: 5
+          STR_MIXED_CREW_4: 4
+          STR_MIXED_CREW_5: 4
+          STR_MIXED_CREW_6: 3
+          STR_MIXED_CREW_7: 2
+          STR_MIXED_CREW_8: 1
+          STR_MIXED_CREW_9: 1
+          STR_MIXED_CREW_A: 2
+          STR_MIXED_CREW_B: 2
+          STR_MIXED_CREW_C: 2
+          STR_MIXED_CREW_D: 2
+          STR_MIXED_CREW_E: 1
+          STR_MIXED_CREW_F: 1
+  - type: STR_ALIEN_TERROR
+    raceWeights:
+      0:
+          STR_SECTOID: 30
+          STR_FLOATER: 70
+      1:
+          STR_SECTOID: 60
+          STR_FLOATER: 40
+      3:
+          STR_SECTOID: 20
+          STR_SNAKEMAN: 60
+          STR_FLOATER: 20
+      5:
+          STR_SECTOID: 10
+          STR_SNAKEMAN: 20
+          STR_ETHEREAL: 40
+          STR_MUTON: 20
+          STR_FLOATER: 10
+      7:
+          STR_SECTOID: 10
+          STR_SNAKEMAN: 15
+          STR_ETHEREAL: 10
+          STR_MUTON: 10
+          STR_FLOATER: 5
+          STR_MIXED_CREW_0: 5
+          STR_MIXED_CREW_1: 4
+          STR_MIXED_CREW_2: 4
+          STR_MIXED_CREW_3: 3
+          STR_MIXED_CREW_4: 3
+          STR_MIXED_CREW_5: 2
+          STR_MIXED_CREW_6: 2
+          STR_MIXED_CREW_7: 3
+          STR_MIXED_CREW_8: 4
+          STR_MIXED_CREW_9: 3
+          STR_MIXED_CREW_A: 4
+          STR_MIXED_CREW_B: 3
+          STR_MIXED_CREW_C: 3
+          STR_MIXED_CREW_D: 4
+          STR_MIXED_CREW_E: 2
+          STR_MIXED_CREW_F: 1
+      9:
+          STR_SECTOID: 3
+          STR_SNAKEMAN: 15
+          STR_ETHEREAL: 15
+          STR_MUTON: 15
+          STR_FLOATER: 2
+          STR_MIXED_CREW_0: 6
+          STR_MIXED_CREW_1: 4
+          STR_MIXED_CREW_2: 4
+          STR_MIXED_CREW_3: 3
+          STR_MIXED_CREW_4: 3
+          STR_MIXED_CREW_5: 2
+          STR_MIXED_CREW_6: 3
+          STR_MIXED_CREW_7: 3
+          STR_MIXED_CREW_8: 5
+          STR_MIXED_CREW_9: 2
+          STR_MIXED_CREW_A: 4
+          STR_MIXED_CREW_B: 3
+          STR_MIXED_CREW_C: 2
+          STR_MIXED_CREW_D: 3
+          STR_MIXED_CREW_E: 2
+          STR_MIXED_CREW_F: 1
+extraStrings:
+  - type: en-US
+    strings:
+      STR_MIXED_CREW_0: "Mixed Crew"
+      STR_MIXED_CREW_1: "Mixed Crew"
+      STR_MIXED_CREW_2: "Mixed Crew"
+      STR_MIXED_CREW_3: "Mixed Crew"
+      STR_MIXED_CREW_4: "Mixed Crew"
+      STR_MIXED_CREW_5: "Mixed Crew"
+      STR_MIXED_CREW_6: "Mixed Crew"
+      STR_MIXED_CREW_7: "Mixed Crew"
+      STR_MIXED_CREW_8: "Mixed Crew"
+      STR_MIXED_CREW_9: "Mixed Crew"
+      STR_MIXED_CREW_A: "Mixed Crew"
+      STR_MIXED_CREW_B: "Mixed Crew"
+      STR_MIXED_CREW_C: "Mixed Crew"
+      STR_MIXED_CREW_D: "Mixed Crew"
+      STR_MIXED_CREW_E: "Mixed Crew"
+      STR_MIXED_CREW_F: "Mixed Crew"
+  - type: en-GB
+    strings:
+      STR_MIXED_CREW_0: "Mixed Crew"
+      STR_MIXED_CREW_1: "Mixed Crew"
+      STR_MIXED_CREW_2: "Mixed Crew"
+      STR_MIXED_CREW_3: "Mixed Crew"
+      STR_MIXED_CREW_4: "Mixed Crew"
+      STR_MIXED_CREW_5: "Mixed Crew"
+      STR_MIXED_CREW_6: "Mixed Crew"
+      STR_MIXED_CREW_7: "Mixed Crew"
+      STR_MIXED_CREW_8: "Mixed Crew"
+      STR_MIXED_CREW_9: "Mixed Crew"
+      STR_MIXED_CREW_A: "Mixed Crew"
+      STR_MIXED_CREW_B: "Mixed Crew"
+      STR_MIXED_CREW_C: "Mixed Crew"
+      STR_MIXED_CREW_D: "Mixed Crew"
+      STR_MIXED_CREW_E: "Mixed Crew"
+      STR_MIXED_CREW_F: "Mixed Crew"

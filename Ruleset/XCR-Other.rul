@@ -1,0 +1,121 @@
+costSoldier: 20000
+costEngineer: 30000
+costScientist: 30000
+
+items:
+  - type: STR_ALIEN_ALLOYS
+    costSell: 4500
+  - type: STR_ELERIUM_115
+    costSell: 6000
+  - type: STR_UFO_POWER_SOURCE
+    size: 1.5
+    recoveryPoints: 10
+  - type: STR_UFO_NAVIGATION
+    size: 0.8
+    costSell: 100000
+  - type: STR_SECTOID_CORPSE
+    costSell: 18000
+    recoveryPoints: 1
+  - type: STR_SNAKEMAN_CORPSE
+    costSell: 18000
+    recoveryPoints: 2
+  - type: STR_ETHEREAL_CORPSE
+    costSell: 18000
+    recoveryPoints: 3
+  - type: STR_MUTON_CORPSE
+    costSell: 18000
+    recoveryPoints: 3
+  - type: STR_FLOATER_CORPSE
+    costSell: 18000
+    recoveryPoints: 1
+  - type: STR_CELATID_CORPSE
+    costSell: 18000
+    recoveryPoints: 2
+  - type: STR_SILACOID_CORPSE
+    costSell: 18000
+    recoveryPoints: 1
+  - type: STR_CHRYSSALID_CORPSE
+    costSell: 18000
+    recoveryPoints: 2
+  - type: STR_REAPER_CORPSE
+    costSell: 18000
+    recoveryPoints: 2
+  - type: STR_SECTOPOD_CORPSE
+    costSell: 18000
+    recoveryPoints: 3
+  - type: STR_CYBERDISC_CORPSE
+    costSell: 18000
+    recoveryPoints: 3
+  - type: STR_SECTOID_COMMANDER
+    costSell: 30000
+  - type: STR_SECTOID_LEADER
+    costSell: 30000
+  - type: STR_SECTOID_ENGINEER
+    costSell: 30000
+  - type: STR_SECTOID_MEDIC
+    costSell: 30000
+  - type: STR_SECTOID_NAVIGATOR
+    costSell: 30000
+  - type: STR_SECTOID_SOLDIER
+    costSell: 25000
+  - type: STR_SNAKEMAN_COMMANDER
+    costSell: 30000
+  - type: STR_SNAKEMAN_LEADER
+    costSell: 30000
+  - type: STR_SNAKEMAN_ENGINEER
+    costSell: 30000
+  - type: STR_SNAKEMAN_NAVIGATOR
+    costSell: 30000
+  - type: STR_SNAKEMAN_SOLDIER
+    costSell: 25000
+  - type: STR_ETHEREAL_COMMANDER
+    costSell: 40000
+  - type: STR_ETHEREAL_LEADER
+    costSell: 30000
+  - type: STR_ETHEREAL_SOLDIER
+    costSell: 30000
+  - type: STR_MUTON_ENGINEER
+    costSell: 30000
+  - type: STR_MUTON_NAVIGATOR
+    costSell: 30000
+  - type: STR_MUTON_SOLDIER
+    costSell: 25000
+  - type: STR_FLOATER_COMMANDER
+    costSell: 30000
+  - type: STR_FLOATER_LEADER
+    costSell: 30000
+  - type: STR_FLOATER_ENGINEER
+    costSell: 30000
+  - type: STR_FLOATER_MEDIC
+    costSell: 30000
+  - type: STR_FLOATER_NAVIGATOR
+    costSell: 30000
+  - type: STR_FLOATER_SOLDIER
+    costSell: 25000
+  - type: STR_CELATID_TERRORIST
+    costSell: 25000
+  - type: STR_SILACOID_TERRORIST
+    costSell: 25000
+  - type: STR_CHRYSSALID_TERRORIST
+    costSell: 30000
+  - type: STR_REAPER_TERRORIST
+    costSell: 25000
+  - type: STR_SECTOPOD_TERRORIST
+    costSell: 40000
+  - type: STR_CYBERDISC_TERRORIST
+    costSell: 40000
+  - type: STR_ALIEN_FOOD
+    size: 0.1
+  - type: STR_ALIEN_ENTERTAINMENT
+    size: 0.4
+  - type: STR_ALIEN_SURGERY
+    size: 0.6
+    costSell: 30000
+  - type: STR_UFO_CONSTRUCTION
+    size: 0.4
+  - type: STR_ALIEN_REPRODUCTION
+    size: 0.5
+    costSell: 25000
+  - type: STR_ALIEN_HABITAT
+    size: 0.1
+    costSell: 1000

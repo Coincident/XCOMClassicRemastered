@@ -1,0 +1,25 @@
+Gender Detail Up Mod
+====================
+
+# SUMMARY
+It makes female charactors more feminine
+
+# MOD INFORMATION
+
+Yes, all female combatants of X-COM are as tough as male combatants. There is no difference between men and women in X-COM world, except there looks.
+
+And that is the point. Why female charactors of X-COM are so MANLY as men? Is it necessary to be so bulky to become tough equal to men?
+I don't think so.
+
+This mode changes looks of famale charactors in none or personal armor to be more feminine. I can't change power or flying armor. It seems that looks of the armors doesn't vary as wearer's gender or race.
+
+# HISTORY
+Ver. 1.0: presenting faminine no armor and personal armor and improved femail civilian.
+Ver. 1.1 tones down breasts and makes more real.
+
+# INSTALL INSTRUCTIONS
+============
+
+1. Copy all folders and file in data folder to the data folder of OpneXcom.
+2. Start OpneXcom and go to Option>Mod.
+3. Set GenderDetail mod yes.

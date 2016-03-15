@@ -1,0 +1,24 @@
+crafts:
+  - type: STR_SKYRANGER
+    transferTime: 96
+    score: 500
+    costRent: 250000
+  - type: STR_INTERCEPTOR
+    score: 200
+    costRent: 300000
+  - type: STR_AVENGER
+    fuelMax: 60
+    damageMax: 1200
+    speedMax: 5010
+    accel: 10
+    costSell: 7960000
+    costRent: 600000
+    score: 1000
+  - type: STR_FIRESTORM
+    fuelMax: 40
+    damageMax: 650
+    speedMax: 5500
+    accel: 10
+    costSell: 3650000
+    costRent: 350000
+    score: 500

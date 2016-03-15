@@ -1,0 +1,32 @@
+items:
+#STUN
+  - type: STR_STUN_BOMB
+    hitAnimation: 80
+  - type: STR_STUN_GRENADE
+    hitAnimation: 80
+  - type: STR_FLASHBANG_GRENADE
+    hitAnimation: 80
+  - type: STR_IMP_FLASHBANG_GRENADE
+    hitAnimation: 80
+  - type: STR_BATBOMB2
+    hitAnimation: 80
+  - type: STR_MECHTOID_STUN_ROCKET
+    hitAnimation: 80
+
+#SMOKE
+  - type: STR_SMOKE_GRENADE
+    hitAnimation: 100
+  - type: STR_SMOKE_BOMB
+    hitAnimation: 100
+  - type: STR_LAUNCHER_SMOKE
+    hitAnimation: 100
+
+extraSprites:
+  - type: X1.PCK
+    width: 1024
+    height: 64
+    subX: 128
+    subY: 64
+    files:
+      80: Resources/Extra_Explosions/XStun2.png
+      100: Resources/Extra_Explosions/XSmoke2.png

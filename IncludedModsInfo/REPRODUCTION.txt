@@ -1,0 +1,22 @@
+
+-------------------------------------------------------------------------------------------------------------
+					Alien Reproduction enabler for OpenXcom
+-------------------------------------------------------------------------------------------------------------
+
+Description:
+
+ Simple addon to OpenXCom to allow access to the alien reproduction research topic, by changing some map data.
+
+-------------------------------------------------------------------------------------------------------------
+
+to install:
+
+simply extract to your data folder (e.g., X:\OpenXcom\Data)
+add the following line int the rulesets section of your options.cfg:
+
+  - Reproduction
+
+*note: for now,you need openxcom 0.9 with the latest git build -> http://openxcom.org/index.php/git-builds/ 
+       Options.cfg can be found from your documents/OpenXcom folder.
+
+--------------------------------------------------------------------------------------------------------------

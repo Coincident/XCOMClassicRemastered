@@ -1,0 +1,70 @@
+facilities:
+  - type: STR_ACCESS_LIFT
+    monthlyCost: 10000
+  - type: STR_HANGAR
+    buildCost: 200000
+    buildTime: 25
+    monthlyCost: 50000
+  - type: STR_GENERAL_STORES
+    buildCost: 150000
+    buildTime: 10
+    monthlyCost: 10000
+  - type: STR_LIVING_QUARTERS
+    buildCost: 400000
+    buildTime: 16
+    monthlyCost: 20000
+  - type: STR_ALIEN_CONTAINMENT
+    buildCost: 500000
+    monthlyCost: 40000
+    requires:
+      - STR_ALIEN_CONTAINMENT
+    aliens: 8
+  - type: STR_PSIONIC_LABORATORY
+    buildTime: 28
+    monthlyCost: 50000
+  - type: STR_LABORATORY
+    buildCost: 750000
+    buildTime: 26
+    monthlyCost: 60000
+  - type: STR_WORKSHOP
+    buildCost: 800000
+    buildTime: 32
+    monthlyCost: 70000
+  - type: STR_SMALL_RADAR_SYSTEM
+    radarChance: 20
+    radarRange: 1500
+    monthlyCost: 18000
+  - type: STR_LARGE_RADAR_SYSTEM
+    monthlyCost: 37000
+    radarChance: 30
+    radarRange: 1900
+  - type: STR_HYPER_WAVE_DECODER
+    monthlyCost: 105000
+    radarChance: 70
+    radarRange: 2150
+    buildTime: 40
+  - type: STR_MISSILE_DEFENSES
+    monthlyCost: 12000
+    buildTime: 12
+    defense: 530
+    hitRatio: 64
+  - type: STR_LASER_DEFENSES
+    monthlyCost: 18000
+    buildTime: 22
+    monthlyCost: 9000
+    hitRatio: 72
+  - type: STR_PLASMA_DEFENSES
+    monthlyCost: 30000
+    buildTime: 28
+    monthlyCost: 15000
+    defense: 990
+    hitRatio: 67
+  - type: STR_FUSION_BALL_DEFENSES
+    monthlyCost: 40000
+    defense: 1130
+    hitRatio: 76
+  - type: STR_GRAV_SHIELD
+    monthlyCost: 50000
+  - type: STR_MIND_SHIELD
+    buildTime: 39
+    monthlyCost: 60000

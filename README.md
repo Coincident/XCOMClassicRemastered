@@ -1,6 +1,8 @@
 # X-COM Classic Remastered
-An OpenXcom mod that rebalances the original features of classic X-COM.  
-All existing technologies are situational, and gameplay is more varied.
+*An OpenXcom mod that rebalances the original features of classic X-COM.*  
+*All existing technologies are situational, and gameplay is more varied.*
+
+*Version 0.1 Beta - Created by* **Coincident**
 
 A complete rebalance of all the features in the classic game to sharpen the gameplay experience variety. Designed for people who want to experience **only the original content of the game**, without the severe **balance** problems and with enhanced **quality**. This mod addresses the blatant balance problems of the original, for example: late-game psionics, the blaster launcher, and the plasma beam’s long range making every interception a cake-walk.
 
