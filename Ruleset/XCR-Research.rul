@@ -2,20 +2,20 @@
 research:
 # Rebalance original research times
   - name: STR_LASER_WEAPONS
-    cost: 40
-    points: 3
+    cost: 30
+    points: 2
   - name: STR_MOTION_SCANNER
-    cost: 190
-    points: 10
+    cost: 170
+    points: 9
   - name: STR_MEDI_KIT
-    cost: 160
-    points: 8
+    cost: 140
+    points: 7
   - name: STR_ELERIUM_115
-    cost: 400
-    points: 36
+    cost: 360
+    points: 33
   - name: STR_UFO_CONSTRUCTION
-    cost: 720
-    points: 49
+    cost: 650
+    points: 44
     dependencies:
       - STR_UFO_CONSTRUCTION_DEP
   - name: STR_UFO_CONSTRUCTION_DEP
@@ -28,28 +28,28 @@ research:
       - STR_MUTON_ENGINEER
       - STR_SECTOID_ENGINEER
   - name: STR_ALIEN_FOOD
-    cost: 90
-    points: 18
+    cost: 80
+    points: 16
     dependencies:
       - STR_ALIEN_ORIGINS
   - name: STR_ALIEN_REPRODUCTION
-    cost: 110
-    points: 26
+    cost: 90
+    points: 24
     dependencies:
       - STR_ALIEN_FOOD
   - name: STR_ALIEN_ENTERTAINMENT
-    cost: 130
-    points: 33
+    cost: 110
+    points: 30
     dependencies:
       - STR_MIND_PROBE
   - name: STR_EXAMINATION_ROOM
-    cost: 140
-    points: 40
+    cost: 120
+    points: 38
     dependencies:
       - STR_MEDIC_PLUS
   - name: STR_ALIEN_SURGERY
-    cost: 160
-    points: 48
+    cost: 140
+    points: 42
     dependencies:
       - STR_ALIEN_SURGERY_DEP
   - name: STR_ALIEN_SURGERY_DEP
@@ -59,37 +59,37 @@ research:
       - STR_FLOATER_MEDIC
       - STR_SECTOID_MEDIC
   - name: STR_ALIEN_ALLOYS
-    cost: 360
-    points: 27
+    cost: 320
+    points: 24
   - name: STR_NEW_FIGHTER_CRAFT
-    cost: 810
-    points: 54
+    cost: 730
+    points: 49
   - name: STR_NEW_FIGHTER_TRANSPORTER
-    cost: 900
-    points: 59
+    cost: 810
+    points: 53
     dependencies:
       - STR_HYBRID_POWER_ENGINE
   - name: STR_ULTIMATE_CRAFT
-    cost: 1350
-    points: 81
+    cost: 1200
+    points: 72
     dependencies:
       - STR_LARGE_UFO_CONSTRUCTION
       - STR_THE_MARTIAN_SOLUTION
   - name: STR_LASER_PISTOL
-    cost: 90
-    points: 5
+    cost: 80
+    points: 4
   - name: STR_LASER_RIFLE
-    cost: 270
-    points: 7
+    cost: 240
+    points: 6
   - name: STR_HEAVY_LASER
-    cost: 490
-    points: 9
+    cost: 440
+    points: 8
   - name: STR_LASER_CANNON
-    cost: 550
-    points: 10
+    cost: 500
+    points: 9
   - name: STR_PLASMA_CANNON
-    cost: 990
-    points: 24
+    cost: 900
+    points: 22
     dependencies:
       - STR_PLASMA_CANNON_DEP
   - name: STR_PLASMA_CANNON_DEP
@@ -106,13 +106,13 @@ research:
   - delete: STR_PLASMA_CANNON_DEP1
   - delete: STR_PLASMA_CANNON_DEP2
   - name: STR_PLASMA_SLUG
-    cost: 490
+    cost: 500
     points: 5
     dependencies:
       - STR_PLASMA_CANNON
   - name: STR_FUSION_MISSILE
-    cost: 1030
-    points: 27
+    cost: 930
+    points: 24
     dependencies:
       - STR_FUSION_MISSILE_DEP
   - name: STR_FUSION_MISSILE_DEP
@@ -126,27 +126,27 @@ research:
       - STR_SECTOID_ENGINEER
       - STR_ETHEREAL_ENGINEER
   - name: STR_LASER_DEFENSE
-    cost: 560
-    points: 10
+    cost: 500
+    points: 8
   - name: STR_PLASMA_DEFENSE
-    cost: 1030
-    points: 24
+    cost: 930
+    points: 22
     dependencies:
       - STR_PLASMA_SLUG
       - STR_LASER_DEFENSE
   - name: STR_GRAV_SHIELD
-    cost: 1120
-    points: 28
+    cost: 1000
+    points: 25
     dependencies:
       - STR_ANTI_GRAVITY_PLATFORM
   - name: STR_PSI_LAB
-    cost: 670
-    points: 23
+    cost: 600
+    points: 21
     dependencies:
       - STR_PSIONICS
   - name: STR_PSIONICS
-    cost: 450
-    points: 45
+    cost: 410
+    points: 41
     dependencies:
       - STR_ETHEREAL_COMMANDER
       - STR_ETHEREAL_LEADER
@@ -154,67 +154,67 @@ research:
       - STR_SECTOID_LEADER
       - STR_SECTOID_COMMANDER
   - name: STR_ZOMBIE_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
   - name: STR_SECTOID_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_SNAKEMAN_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_ETHEREAL_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_MUTON_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_FLOATER_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_CELATID_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_SILACOID_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_CHRYSSALID_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_REAPER_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_SECTOPOD_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_CYBERDISC_CORPSE
-    cost: 160
-    points: 16
+    cost: 150
+    points: 15
     unlocks:
       - STR_ALIEN_LIFE_FORMS
       - STR_CYBERDISC_CORPSE_OR_TERRORIST
   - name: STR_ALIEN_ORIGINS
-    cost: 270
-    points: 54
+    cost: 240
+    points: 48
     dependencies:
       - STR_SECTOID_COMMANDER
       - STR_SECTOID_LEADER
@@ -225,8 +225,8 @@ research:
       - STR_FLOATER_COMMANDER
       - STR_FLOATER_LEADER
   - name: STR_THE_MARTIAN_SOLUTION
-    cost: 450
-    points: 113
+    cost: 400
+    points: 100
     dependencies:
       - STR_THE_MARTIAN_SOLUTION_DEP
   - name: STR_THE_MARTIAN_SOLUTION_DEP
@@ -242,8 +242,8 @@ research:
       - STR_FLOATER_COMMANDER
       - STR_FLOATER_LEADER
   - name: STR_CYDONIA_OR_BUST
-    cost: 670
-    points: 201
+    cost: 600
+    points: 180
     dependencies:
       - STR_CYDONIA_OR_BUST_DEP
   - name: STR_CYDONIA_OR_BUST_DEP
@@ -255,17 +255,17 @@ research:
       - STR_ETHEREAL_COMMANDER
       - STR_FLOATER_COMMANDER
   - name: STR_PERSONAL_ARMOR
-    cost: 270
-    points: 9
+    cost: 240
+    points: 8
   - name: STR_POWER_SUIT
-    cost: 630
-    points: 14
+    cost: 570
+    points: 13
     dependencies:
       - STR_UFO_POWER_SOURCE
       - STR_PERSONAL_ARMOR
   - name: STR_SECTOID_COMMANDER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_COMMANDER_PLUS
       - STR_PSIONICS
@@ -275,16 +275,16 @@ research:
       - STR_THE_MARTIAN_SOLUTION_DEP
       - STR_CYDONIA_OR_BUST_DEP
   - name: STR_SNAKEMAN_COMMANDER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_COMMANDER_PLUS
       - STR_ALIEN_ORIGINS
       - STR_THE_MARTIAN_SOLUTION_DEP
       - STR_CYDONIA_OR_BUST_DEP
   - name: STR_ETHEREAL_COMMANDER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_COMMANDER_PLUS
       - STR_PSIONICS
@@ -294,115 +294,115 @@ research:
       - STR_THE_MARTIAN_SOLUTION_DEP
       - STR_CYDONIA_OR_BUST_DEP
   - name: STR_SILACOID_TERRORIST
-    cost: 170
-    points: 25
+    cost: 160
+    points: 24
   - name: STR_CHRYSSALID_TERRORIST
-    cost: 170
-    points: 25
+    cost: 160
+    points: 24
   - name: STR_REAPER_TERRORIST
-    cost: 170
-    points: 25
+    cost: 160
+    points: 24
   - name: STR_SECTOPOD_TERRORIST
-    cost: 170
-    points: 25
+    cost: 160
+    points: 24
 
   - name: STR_ALIEN_GRENADE
-    cost: 360
-    points: 18
+    cost: 320
+    points: 16
     dependencies:
       - STR_ELERIUM_FUSION
   - name: STR_PLASMA_WEAPONS
-    cost: 180
-    points: 18
+    cost: 160
+    points: 16
     dependencies:
       - STR_SOLDIER_PLUS
       - STR_LASER_WEAPONS
   - name: STR_PLASMA_PISTOL
-    cost: 540
-    points: 18
+    cost: 490
+    points: 16
     dependencies:
       - STR_PLASMA_PISTOL_DEV
   - name: STR_PLASMA_PISTOL_CLIP
-    cost: 270
-    points: 3
+    cost: 200
+    points: 2
     dependencies:
       - STR_PLASMA_PISTOL_DEV
   - name: STR_PLASMA_RIFLE
-    cost: 720
-    points: 20
+    cost: 650
+    points: 18
     dependencies:
       - STR_PLASMA_RIFLE_DEV
   - name: STR_PLASMA_RIFLE_CLIP
-    cost: 360
-    points: 4
+    cost: 300
+    points: 3
     dependencies:
       - STR_PLASMA_RIFLE_CLIP_DEV
   - name: STR_HEAVY_PLASMA
-    cost: 940
-    points: 23
+    cost: 850
+    points: 21
     dependencies:
       - STR_HEAVY_PLASMA_DEV
   - name: STR_HEAVY_PLASMA_CLIP
-    cost: 450
-    points: 5
+    cost: 400
+    points: 4
     dependencies:
       - STR_HEAVY_PLASMA_CLIP_DEV
   - name: STR_SMALL_LAUNCHER
-    cost: 630
-    points: 24
+    cost: 570
+    points: 22
     dependencies:
       - STR_MEDIC_PLUS
   - name: STR_STUN_BOMB
-    cost: 270
+    cost: 240
     points: 6
     dependencies:
       - STR_SMALL_LAUNCHER
       - STR_MEDIC_PLUS
   - name: STR_BLASTER_LAUNCHER
-    cost: 900
-    points: 27
+    cost: 800
+    points: 40
     dependencies:
       - STR_BLASTER_LAUNCHER_DEV
   - name: STR_BLASTER_BOMB
-    cost: 450
-    points: 7
+    cost: 400
+    points: 8
     dependencies:
       - STR_BLASTER_LAUNCHER
       - STR_BLASTER_LAUNCHER_DEV
   - name: STR_X-COM_LAUNCHER
-    cost: 940
-    points: 27
+    cost: 850
+    points: 24
     dependencies:
       - STR_BLASTER_BOMB
   - name: STR_FUSION_BOMB
-    cost: 490
-    points: 7
+    cost: 450
+    points: 6
     dependencies:
       - STR_X-COM_LAUNCHER
   - name: STR_TACTICAL_BUSTER
-    cost: 520
-    points: 7
+    cost: 470
+    points: 6
     dependencies:
       - STR_FUSION_BOMB
   - name: STR_NAPALM_BLASTER
-    cost: 540
-    points: 7
+    cost: 490
+    points: 6
     dependencies:
       - STR_TACTICAL_BUSTER
   - name: STR_FUSION_CHARGE
-    cost: 990
-    points: 27
+    cost: 900
+    points: 24
     dependencies:
       - STR_NAPALM_BLASTER
   - name: STR_FLYING_SUIT
-    cost: 810
-    points: 16
+    cost: 730
+    points: 14
     dependencies:
       - STR_POWER_SUIT
       - STR_FLOATING
   - name: STR_UFO_NAVIGATION
-    cost: 450
-    points: 33
+    cost: 400
+    points: 30
     dependencies:
       - STR_UFO_NAVIGATION_DEP
   - name: STR_UFO_NAVIGATION_DEP
@@ -415,8 +415,8 @@ research:
       - STR_SECTOID_NAVIGATOR
       - STR_ETHEREAL_NAVIGATOR
   - name: STR_MIND_PROBE
-    cost: 540
-    points: 27
+    cost: 500
+    points: 25
     dependencies:
       - STR_MIND_PROBE_DEP
   - name: STR_MIND_PROBE_DEP
@@ -428,8 +428,8 @@ research:
       - STR_MUTON_NAVIGATOR
       - STR_SECTOID_NAVIGATOR
   - name: STR_ALIEN_COMMUNICATIONS
-    cost: 270
-    points: 27
+    cost: 240
+    points: 24
     dependencies:
       - STR_FLOATER_NAVIGATOR
       - STR_SNAKEMAN_NAVIGATOR
@@ -437,13 +437,13 @@ research:
       - STR_SECTOID_NAVIGATOR
       - STR_ETHEREAL_NAVIGATOR
   - name: STR_HYPER_WAVE_DECODER
-    cost: 720
-    points: 23
+    cost: 650
+    points: 21
     dependencies:
       - STR_HYPER_WAVE_DECODER_DEP
   - name: STR_PSI_AMP
-    cost: 760
-    points: 23
+    cost: 680
+    points: 21
     dependencies:
       - STR_PSI_AMP_DEP
   - name: STR_PSI_AMP_DEP
@@ -457,8 +457,8 @@ research:
       - STR_SECTOID_LEADER
       - STR_SECTOID_COMMANDER
   - name: STR_MIND_SHIELD
-    cost: 850
-    points: 23
+    cost: 780
+    points: 21
     dependencies:
       - STR_MIND_SHIELD_DEP
   - name: STR_MIND_SHIELD_DEP
@@ -472,8 +472,8 @@ research:
       - STR_SECTOID_LEADER
       - STR_SECTOID_COMMANDER
   - name: STR_UFO_POWER_SOURCE
-    cost: 490
-    points: 40
+    cost: 450
+    points: 36
     dependencies:
       - STR_ELERIUM_FUSION
 # Being Unlocked by Researching Aliens
@@ -492,8 +492,8 @@ research:
       - STR_SECTOID_MEDIC
       - STR_ETHEREAL_MEDIC
   - name: STR_FLOATING
-    cost: 490
-    points: 49
+    cost: 450
+    points: 45
     dependencies:
       - STR_UFO_CONSTRUCTION
       - STR_LIVE_FLOATER_OR_CELATID
@@ -507,8 +507,8 @@ research:
       - STR_FLOATER_COMMANDER
       - STR_CELATID_TERRORIST
   - name: STR_HOVERTANK_CHASSIS
-    cost: 580
-    points: 54
+    cost: 520
+    points: 49
     dependencies:
       - STR_FLOATING
       - STR_HYBRID_POWER_ENGINE
@@ -518,16 +518,16 @@ research:
       - STR_CYBERDISC_CORPSE
       - STR_CYBERDISC_TERRORIST
   - name: STR_ANTI_GRAVITY_PLATFORM
-    cost: 670
-    points: 58
+    cost: 600
+    points: 53
     dependencies:
       - STR_HOVERTANK_CHASSIS
       - STR_LARGE_UFO_CONSTRUCTION
       - STR_BATTLESHIP
       - STR_ALIEN_RETALIATION
   - name: STR_ALIEN_SUPER_WEAPON
-    cost: 360
-    points: 36
+    cost: 330
+    points: 33
     dependencies:
       - STR_ALIEN_SUPER_WEAPON_DEP
   - name: STR_ALIEN_SUPER_WEAPON_DEP
@@ -620,8 +620,8 @@ research:
     needItem: true
 # Alien Soldiers
   - name: STR_FLOATER_SOLDIER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_SOLDIER_PLUS
       - STR_LIVE_FLOATER_OR_CELATID
@@ -638,8 +638,8 @@ research:
       - STR_SOLDIER_DUMMY5
       - STR_SOLDIER_DUMMY6
   - name: STR_SNAKEMAN_SOLDIER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_SOLDIER_PLUS
       - STR_PLASMA_PISTOL_DEV
@@ -655,8 +655,8 @@ research:
       - STR_SOLDIER_DUMMY5
       - STR_SOLDIER_DUMMY6
   - name: STR_MUTON_SOLDIER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_SOLDIER_PLUS
       - STR_PLASMA_PISTOL_DEV
@@ -672,8 +672,8 @@ research:
       - STR_SOLDIER_DUMMY5
       - STR_SOLDIER_DUMMY6
   - name: STR_SECTOID_SOLDIER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_SOLDIER_PLUS
       - STR_PLASMA_PISTOL_DEV
@@ -689,8 +689,8 @@ research:
       - STR_SOLDIER_DUMMY5
       - STR_SOLDIER_DUMMY6
   - name: STR_ETHEREAL_SOLDIER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_PSIONICS
       - STR_PSI_AMP_DEP
@@ -710,8 +710,8 @@ research:
       - STR_SOLDIER_DUMMY6
 # Alien Medics (Snakeman, muton, Ethereal medics are for reserve)
   - name: STR_FLOATER_MEDIC
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_MEDIC_PLUS
       - STR_ALIEN_SURGERY_DEP
@@ -724,8 +724,8 @@ research:
       - STR_ALIEN_SURGERY_DEP
 # Alien Engineers (Ethereal engineer is for reserve)
   - name: STR_FLOATER_ENGINEER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_ALIEN_SUPER_WEAPON_DEP
       - STR_ELERIUM_FUSION_DEP
@@ -737,8 +737,8 @@ research:
       - STR_HYBRID_POWER_ENGINE_DEP
       - STR_LARGE_UFO_CONSTRUCTION_DEP
   - name: STR_SNAKEMAN_ENGINEER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_ALIEN_SUPER_WEAPON_DEP
       - STR_ELERIUM_FUSION_DEP
@@ -749,8 +749,8 @@ research:
       - STR_HYBRID_POWER_ENGINE_DEP
       - STR_LARGE_UFO_CONSTRUCTION_DEP
   - name: STR_MUTON_ENGINEER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_ALIEN_SUPER_WEAPON_DEP
       - STR_ELERIUM_FUSION_DEP
@@ -761,8 +761,8 @@ research:
       - STR_HYBRID_POWER_ENGINE_DEP
       - STR_LARGE_UFO_CONSTRUCTION_DEP
   - name: STR_SECTOID_ENGINEER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_ALIEN_SUPER_WEAPON_DEP
       - STR_ELERIUM_FUSION_DEP
@@ -774,8 +774,8 @@ research:
       - STR_LARGE_UFO_CONSTRUCTION_DEP
 # Alien Navigators (Ethereal Navigator is for reserve)
   - name: STR_FLOATER_NAVIGATOR
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_MIND_PROBE_DEP
       - STR_ALIEN_COMMUNICATIONS
@@ -783,24 +783,24 @@ research:
       - STR_HYPER_WAVE_DECODER_DEP
       - STR_LIVE_FLOATER_OR_CELATID
   - name: STR_SNAKEMAN_NAVIGATOR
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_MIND_PROBE_DEP
       - STR_ALIEN_COMMUNICATIONS
       - STR_UFO_NAVIGATION_DEP
       - STR_HYPER_WAVE_DECODER_DEP
   - name: STR_MUTON_NAVIGATOR
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_MIND_PROBE_DEP
       - STR_ALIEN_COMMUNICATIONS
       - STR_UFO_NAVIGATION_DEP
       - STR_HYPER_WAVE_DECODER_DEP
   - name: STR_SECTOID_NAVIGATOR
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_MIND_PROBE_DEP
       - STR_ALIEN_COMMUNICATIONS
@@ -808,28 +808,28 @@ research:
       - STR_HYPER_WAVE_DECODER_DEP
 # Alien Leaders (Muton Leader is for reserve)
   - name: STR_FLOATER_LEADER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_THE_MARTIAN_SOLUTION_DEP
       - STR_LIVE_FLOATER_OR_CELATID
   - name: STR_SNAKEMAN_LEADER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_THE_MARTIAN_SOLUTION_DEP
   - name: STR_MUTON_LEADER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     needItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_THE_MARTIAN_SOLUTION_DEP
   - name: STR_SECTOID_LEADER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_PSIONICS
       - STR_PSI_AMP_DEP
@@ -837,8 +837,8 @@ research:
       - STR_ALIEN_ORIGINS
       - STR_THE_MARTIAN_SOLUTION_DEP
   - name: STR_ETHEREAL_LEADER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_PSIONICS
       - STR_PSI_AMP_DEP
@@ -846,8 +846,8 @@ research:
       - STR_ALIEN_ORIGINS
       - STR_THE_MARTIAN_SOLUTION_DEP
   - name: STR_FLOATER_COMMANDER
-    cost: 190
-    points: 38
+    cost: 180
+    points: 36
     unlocks:
       - STR_CYDONIA_DEP
       - STR_ALIEN_ORIGINS
@@ -855,59 +855,59 @@ research:
       - STR_CYDONIA_OR_BUST_DEP
       - STR_LIVE_FLOATER_OR_CELATID
   - name: STR_CYBERDISC_TERRORIST
-    cost: 170
-    points: 25
+    cost: 160
+    points: 24
     unlocks:
       - STR_CYBERDISC_CORPSE_OR_TERRORIST
   - name: STR_CELATID_TERRORIST
-    cost: 170
-    points: 25
+    cost: 160
+    points: 24
     unlocks:
       - STR_LIVE_FLOATER_OR_CELATID
 # Extra research
   - name: STR_TANK_LASER_CANNON
-    cost: 570
-    points: 10
+    cost: 520
+    points: 8
     dependencies:
       - STR_LASER_CANNON
   - name: STR_HOVERTANK_PLASMA
-    cost: 1120
-    points: 24
+    cost: 1010
+    points: 22
     dependencies:
       - STR_TANK_LASER_CANNON
       - STR_PLASMA_SLUG
       - STR_HOVERTANK_CHASSIS
   - name: STR_HWP_PLASMA_SLUG
-    cost: 540
+    cost: 500
     points: 5
     dependencies:
       - STR_HOVERTANK_PLASMA
   - name: STR_FUSION_BALL
-    cost: 580
-    points: 7
+    cost: 520
+    points: 6
     dependencies:
       - STR_FUSION_MISSILE
   - name: STR_FUSION_DEFENSE
-    cost: 1080
-    points: 27
+    cost: 970
+    points: 24
     dependencies:
       - STR_PLASMA_DEFENSE
       - STR_FUSION_MISSILE
       - STR_FUSION_BALL
   - name: STR_HOVERTANK_LAUNCHER
-    cost: 1210
-    points: 27
+    cost: 1080
+    points: 25
     dependencies:
       - STR_HWP_PLASMA_SLUG
       - STR_FUSION_BALL
   - name: STR_HWP_FUSION_BOMB
-    cost: 630
-    points: 7
+    cost: 570
+    points: 6
     dependencies:
       - STR_HOVERTANK_LAUNCHER
   - name: STR_ELERIUM_FUSION
-    cost: 400
-    points: 40
+    cost: 360
+    points: 36
     dependencies:
       - STR_ELERIUM_FUSION_DEP
   - name: STR_ELERIUM_FUSION_DEP
@@ -920,8 +920,8 @@ research:
       - STR_SECTOID_ENGINEER
       - STR_ETHEREAL_ENGINEER
   - name: STR_HYBRID_POWER_ENGINE
-    cost: 760
-    points: 50
+    cost: 680
+    points: 45
     dependencies:
       - STR_HYBRID_POWER_ENGINE_DEP
   - name: STR_HYBRID_POWER_ENGINE_DEP
@@ -933,8 +933,8 @@ research:
       - STR_MUTON_ENGINEER
       - STR_SECTOID_ENGINEER
   - name: STR_LARGE_UFO_CONSTRUCTION
-    cost: 850
-    points: 54
+    cost: 780
+    points: 49
     dependencies:
       - STR_LARGE_UFO_CONSTRUCTION_DEP
   - name: STR_LARGE_UFO_CONSTRUCTION_DEP
@@ -946,8 +946,8 @@ research:
       - STR_MUTON_ENGINEER
       - STR_SECTOID_ENGINEER
   - name: STR_ALIEN_LIFE_FORMS
-    cost: 70
-    points: 7
+    cost: 60
+    points: 6
     dependencies:
       - STR_SECTOID_CORPSE
       - STR_SNAKEMAN_CORPSE
@@ -967,8 +967,8 @@ research:
     dependencies:
       - STR_ALIEN_LIFE_FORMS
   - name: STR_ALIEN_CONTAINMENT
-    cost: 180
-    points: 11
+    cost: 90
+    points: 9
     dependencies:
       - STR_ALIEN_HABITAT
 
