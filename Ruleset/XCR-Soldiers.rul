@@ -1,5 +1,5 @@
 soldiers:
-  - type: XCOM
+  - type: STR_SOLDIER
     minStats:
       tu: 50
       stamina: 40
@@ -21,7 +21,7 @@ soldiers:
       firing: 60
       throwing: 65
       strength: 40
-      psiStrength: 100
+      psiStrength: 99
       psiSkill: 16
       melee: 45
     statCaps:
@@ -33,6 +33,6 @@ soldiers:
       firing: 94
       throwing: 94
       strength: 70
-      psiStrength: 100
+      psiStrength: 99
       psiSkill: 90
       melee: 94
