@@ -17,6 +17,16 @@ Make the right decisions, and you **might** win…
 
 
 
+## Install & Configure
+Download the latest .zip from [GitHub](https://github.com/Coincident/XCOMClassicRemastered/archive/master.zip), and **extract it to your mods folder**. In windows 7, this should be: *"C:\Users\<username>\Documents\OpenXcom\mods\"*, so after extracting there should exist a *"...\Documents\OpenXcom\mods\XCOMClassicRemastered-master"* folder.  
+Start OpenXcom, go to **Options** > **Mods** > And click on **X-COM Classic Remastered** to activate the mod.  
+Then, still in the **Options** menu, click on **Advanced**, and configure the following options:  
+**Battlescape**  
+ * **UFO Extender accuracy	= YES (Required for proper weapon balance)**
+ * Explosion Height		= 2 (Recommended to make explosions more realistic)
+
+
+
 ## Weapons
 Regular field weapons consist of 3 classes weapons, with 3 types of weapon each.
 
