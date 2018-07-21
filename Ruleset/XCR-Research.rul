@@ -614,10 +614,6 @@ research:
     needItem: true
   - name: STR_SOLDIER_DUMMY4
     needItem: true
-  - name: STR_SOLDIER_DUMMY5
-    needItem: true
-  - name: STR_SOLDIER_DUMMY6
-    needItem: true
 # Alien Soldiers
   - name: STR_FLOATER_SOLDIER
     cost: 180
@@ -635,8 +631,6 @@ research:
       - STR_SOLDIER_DUMMY2
       - STR_SOLDIER_DUMMY3
       - STR_SOLDIER_DUMMY4
-      - STR_SOLDIER_DUMMY5
-      - STR_SOLDIER_DUMMY6
   - name: STR_SNAKEMAN_SOLDIER
     cost: 180
     points: 36
@@ -652,8 +646,6 @@ research:
       - STR_SOLDIER_DUMMY2
       - STR_SOLDIER_DUMMY3
       - STR_SOLDIER_DUMMY4
-      - STR_SOLDIER_DUMMY5
-      - STR_SOLDIER_DUMMY6
   - name: STR_MUTON_SOLDIER
     cost: 180
     points: 36
@@ -669,8 +661,6 @@ research:
       - STR_SOLDIER_DUMMY2
       - STR_SOLDIER_DUMMY3
       - STR_SOLDIER_DUMMY4
-      - STR_SOLDIER_DUMMY5
-      - STR_SOLDIER_DUMMY6
   - name: STR_SECTOID_SOLDIER
     cost: 180
     points: 36
@@ -686,8 +676,6 @@ research:
       - STR_SOLDIER_DUMMY2
       - STR_SOLDIER_DUMMY3
       - STR_SOLDIER_DUMMY4
-      - STR_SOLDIER_DUMMY5
-      - STR_SOLDIER_DUMMY6
   - name: STR_ETHEREAL_SOLDIER
     cost: 180
     points: 36
@@ -706,8 +694,6 @@ research:
       - STR_SOLDIER_DUMMY2
       - STR_SOLDIER_DUMMY3
       - STR_SOLDIER_DUMMY4
-      - STR_SOLDIER_DUMMY5
-      - STR_SOLDIER_DUMMY6
 # Alien Medics (Snakeman, muton, Ethereal medics are for reserve)
   - name: STR_FLOATER_MEDIC
     cost: 180
