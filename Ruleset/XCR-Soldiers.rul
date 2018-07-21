@@ -6,27 +6,27 @@ soldiers:
       health: 25
       bravery: 10
       reactions: 30
-      firing: 35
-      throwing: 40
+      firing: 40
+      throwing: 50
       strength: 20
       psiStrength: 0
       psiSkill: 0
-      melee: 30
+      melee: 20
     maxStats:
       tu: 60
       stamina: 70
       health: 40
       bravery: 50
       reactions: 60
-      firing: 50
-      throwing: 55
+      firing: 60
+      throwing: 70
       strength: 40
       psiStrength: 99
-      psiSkill: 16
-      melee: 45
+      psiSkill: 8
+      melee: 40
     statCaps:
       tu: 80
-      stamina: 99
+      stamina: 98
       health: 60
       bravery: 90
       reactions: 94
@@ -34,5 +34,5 @@ soldiers:
       throwing: 83
       strength: 70
       psiStrength: 99
-      psiSkill: 90
+      psiSkill: 83
       melee: 83
