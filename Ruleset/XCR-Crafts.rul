@@ -1,7 +1,7 @@
 crafts:
   - type: STR_SKYRANGER
     transferTime: 96
-    score: 500
+    score: 400
     costRent: 250000
   - type: STR_INTERCEPTOR
     score: 200
@@ -21,4 +21,4 @@ crafts:
     accel: 10
     costSell: 3650000
     costRent: 350000
-    score: 500
+    score: 400

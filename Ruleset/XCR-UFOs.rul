@@ -6,14 +6,14 @@ ufos:
     power: 0
     range: 0
     reload: 56
-    score: 8
+    score: 9
     breakOffTime: 199
   - type: STR_MEDIUM_SCOUT
     damageMax: 84
     power: 36
     range: 36
     reload: 28
-    score: 11
+    score: 12
     breakOffTime: 217
   - type: STR_LARGE_SCOUT
     damageMax: 120
@@ -21,7 +21,7 @@ ufos:
     range: 43
     reload: 28
     breakOffTime: 249
-    score: 14
+    score: 15
   - type: STR_ABDUCTOR
     speedMax: 4500
     damageMax: 650
@@ -29,28 +29,28 @@ ufos:
     range: 53
     reload: 26
     breakOffTime: 413
-    score: 65
+    score: 75
   - type: STR_HARVESTER
     damageMax: 750
     power: 40
     range: 53
     reload: 26
     breakOffTime: 583
-    score: 74
+    score: 80
   - type: STR_SUPPLY_SHIP
     damageMax: 2400
     power: 40
     range: 53
     reload: 26
     breakOffTime: 1700
-    score: 220
+    score: 240
   - type: STR_TERROR_SHIP
     damageMax: 1600
     power: 46
     range: 58
     reload: 16
     breakOffTime: 2600
-    score: 275
+    score: 290
   - type: STR_BATTLESHIP
     damageMax: 3200
     power: 232

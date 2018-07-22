@@ -30,13 +30,13 @@ items:
     recoveryPoints: 1
   - type: STR_CELATID_CORPSE
     costSell: 18000
-    recoveryPoints: 2
+    recoveryPoints: 3
   - type: STR_SILACOID_CORPSE
     costSell: 18000
-    recoveryPoints: 1
+    recoveryPoints: 2
   - type: STR_CHRYSSALID_CORPSE
     costSell: 18000
-    recoveryPoints: 2
+    recoveryPoints: 3
   - type: STR_REAPER_CORPSE
     costSell: 18000
     recoveryPoints: 2

@@ -90,8 +90,6 @@ alienMissions:
         count: 2
         trajectory: P7
         timer: 60
-  - type: STR_ALIEN_BASE
-    points: 100
   - type: STR_ALIEN_TERROR
     points: 10
     waves:

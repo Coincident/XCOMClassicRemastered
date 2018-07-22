@@ -6314,7 +6314,7 @@ alienDeployments:
           -
             []
     despawnPenalty: 1000
-    objectiveComplete: [STR_TERROR_CLEARED, 100]
+    objectiveComplete: [STR_TERROR_CLEARED, 200]
     objectiveFailed: [STR_TERROR_CONTINUES, -250]
     width: 50
     length: 50
