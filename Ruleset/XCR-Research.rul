@@ -293,18 +293,34 @@ research:
       - STR_ALIEN_ORIGINS
       - STR_THE_MARTIAN_SOLUTION_DEP
       - STR_CYDONIA_OR_BUST_DEP
+  - delete: STR_SILACOID_TERRORIST
   - name: STR_SILACOID_TERRORIST
     cost: 160
     points: 24
+    lookup: STR_SILACOID
+    needItem: true
+    destroyItem: true
+  - delete: STR_CHRYSSALID_TERRORIST
   - name: STR_CHRYSSALID_TERRORIST
     cost: 160
     points: 24
+    lookup: STR_CHRYSSALID
+    needItem: true
+    destroyItem: true
+  - delete: STR_REAPER_TERRORIST
   - name: STR_REAPER_TERRORIST
     cost: 160
     points: 24
+    lookup: STR_REAPER
+    needItem: true
+    destroyItem: true
+  - delete: STR_SECTOPOD_TERRORIST
   - name: STR_SECTOPOD_TERRORIST
     cost: 160
     points: 24
+    lookup: STR_SECTOPOD
+    needItem: true
+    destroyItem: true
 
   - name: STR_ALIEN_GRENADE
     cost: 320
