@@ -6313,9 +6313,10 @@ alienDeployments:
             []
           -
             []
+    duration: [2, 8]
     despawnPenalty: 1000
     objectiveComplete: [STR_TERROR_CLEARED, 200]
-    objectiveFailed: [STR_TERROR_CONTINUES, -250]
+    objectiveFailed: [STR_TERROR_CONTINUES, -200]
     width: 50
     length: 50
     height: 6
@@ -6458,10 +6459,10 @@ alienDeployments:
       palette: 2
       music: GMENBASE    
     markerName: STR_TERROR_SITE
-    duration: [4, 10]
+    duration: [2, 8]
     despawnPenalty: 1000
-    objectiveComplete: [STR_TERROR_CLEARED, 100]
-    objectiveFailed: [STR_TERROR_CONTINUES, -250]
+    objectiveComplete: [STR_TERROR_CLEARED, 200]
+    objectiveFailed: [STR_TERROR_CONTINUES, -200]
 extraStrings:
   - type: en-US
     strings:
