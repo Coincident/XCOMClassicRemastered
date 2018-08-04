@@ -126,7 +126,7 @@ items:
     autoRange: 8
     snapRange: 15
     aimRange: 38
-    clipSize: 70
+    clipSize: 40
   - type: STR_LASER_RIFLE
     size: 0.2
     costSell: 32760
@@ -141,7 +141,7 @@ items:
     autoRange: 8
     snapRange: 15
     aimRange: 38
-    clipSize: 80
+    clipSize: 60
   - type: STR_HEAVY_LASER
     size: 0.3
     costSell: 66300
@@ -154,7 +154,7 @@ items:
     autoRange: 8
     snapRange: 15
     aimRange: 38
-    clipSize: 50
+    clipSize: 30
   - type: STR_HEAVY_PLASMA
     size: 0.6
     costSell: 125000
