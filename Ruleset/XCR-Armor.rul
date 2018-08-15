@@ -28,10 +28,10 @@ armors:
     weight: 3
     loftempsSet: [ 4 ]
   - type: STR_POWER_SUIT_UC
-    frontArmor: 90
-    sideArmor: 77
-    rearArmor: 58
-    underArmor: 58
+    frontArmor: 85
+    sideArmor: 70
+    rearArmor: 50
+    underArmor: 50
     damageModifier:
       - 1.0
       - 0.85
@@ -46,10 +46,10 @@ armors:
     weight: 8
     loftempsSet: [ 4 ]
   - type: STR_FLYING_SUIT_UC
-    frontArmor: 90
-    sideArmor: 76
-    rearArmor: 50
-    underArmor: 56
+    frontArmor: 80
+    sideArmor: 65
+    rearArmor: 35
+    underArmor: 40
     damageModifier:
       - 1.0
       - 0.86
