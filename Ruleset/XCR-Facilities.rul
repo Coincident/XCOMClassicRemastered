@@ -51,12 +51,10 @@ facilities:
   - type: STR_LASER_DEFENSES
     monthlyCost: 18000
     buildTime: 22
-    monthlyCost: 9000
     hitRatio: 72
   - type: STR_PLASMA_DEFENSES
     monthlyCost: 30000
     buildTime: 28
-    monthlyCost: 15000
     defense: 990
     hitRatio: 67
   - type: STR_FUSION_BALL_DEFENSES
@@ -64,7 +62,8 @@ facilities:
     defense: 1130
     hitRatio: 76
   - type: STR_GRAV_SHIELD
-    monthlyCost: 50000
+    buildCost: 1800000
+    monthlyCost: 90000
   - type: STR_MIND_SHIELD
     buildTime: 39
     monthlyCost: 60000
