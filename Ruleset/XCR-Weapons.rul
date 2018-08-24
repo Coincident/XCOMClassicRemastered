@@ -413,7 +413,7 @@ items:
     size: 0.4
     costSell: 766000
     weight: 15
-    tuUse: 75
+    tuUse: 84
     flatRate: false
   - type: STR_SMOKE_GRENADE
     costBuy: 250
