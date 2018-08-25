@@ -153,7 +153,7 @@ units:
       throwing: 58
       strength: 39
       psiStrength: 70
-      psiSkill: 35
+      psiSkill: 40
       melee: 76
     value: 10
     aggression: 0
@@ -168,7 +168,7 @@ units:
       throwing: 58
       strength: 41
       psiStrength: 75
-      psiSkill: 35
+      psiSkill: 45
       melee: 76
     value: 11
       
@@ -269,7 +269,7 @@ units:
       throwing: 80
       strength: 53
       psiStrength: 65
-      psiSkill: 30
+      psiSkill: 35
       melee: 85
     value: 10
   - type: STR_ETHEREAL_LEADER
@@ -283,7 +283,7 @@ units:
       throwing: 80
       strength: 53
       psiStrength: 70
-      psiSkill: 35
+      psiSkill: 40
       melee: 85
     value: 12
   - type: STR_ETHEREAL_COMMANDER
@@ -297,7 +297,7 @@ units:
       throwing: 80
       strength: 55
       psiStrength: 75
-      psiSkill: 40
+      psiSkill: 45
       melee: 85
     value: 14
     aggression: 0
