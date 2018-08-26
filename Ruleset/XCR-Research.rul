@@ -74,7 +74,7 @@ research:
     points: 72
     dependencies:
       - STR_LARGE_UFO_CONSTRUCTION
-      - STR_THE_MARTIAN_SOLUTION
+      - STR_CYDONIA_OR_BUST
   - name: STR_LASER_PISTOL
     cost: 80
     points: 4
