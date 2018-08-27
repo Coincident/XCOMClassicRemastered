@@ -9,7 +9,7 @@ soldiers:
       firing: 40
       throwing: 50
       strength: 20
-      psiStrength: 1
+      psiStrength: 0
       psiSkill: 0
       melee: 20
     maxStats:
