@@ -81,10 +81,10 @@ armors:
       - 0.0
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: HOVERTANK_ARMOR
-    frontArmor: 100
-    sideArmor: 100
-    rearArmor: 90
-    underArmor: 75
+    frontArmor: 110
+    sideArmor: 110
+    rearArmor: 100
+    underArmor: 90
     damageModifier:
       - 1.0
       - 0.82

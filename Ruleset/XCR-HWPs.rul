@@ -7,11 +7,11 @@ units:
     value: 30
   - type: STR_HOVERTANK_PLASMA
     stats:
-      tu: 90
+      tu: 100
       stamina: 100
       health: 100
       bravery: 110
-      reactions: 28
+      reactions: 30
       firing: 60
       throwing: 0
       strength: 60
@@ -21,11 +21,11 @@ units:
     value: 38
   - type: STR_HOVERTANK_LAUNCHER
     stats:
-      tu: 90
+      tu: 100
       stamina: 100
       health: 100
       bravery: 110
-      reactions: 28
+      reactions: 30
       firing: 60
       throwing: 0
       strength: 60
