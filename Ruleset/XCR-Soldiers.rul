@@ -30,9 +30,9 @@ soldiers:
       health: 60
       bravery: 80
       reactions: 80
-      firing: 83
-      throwing: 83
+      firing: 80
+      throwing: 80
       strength: 70
       psiStrength: 99
-      psiSkill: 63
-      melee: 83
+      psiSkill: 60
+      melee: 80
