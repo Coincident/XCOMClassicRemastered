@@ -22,7 +22,7 @@ soldiers:
       throwing: 70
       strength: 40
       psiStrength: 99
-      psiSkill: 8
+      psiSkill: 0
       melee: 40
     statCaps:
       tu: 80
@@ -34,5 +34,5 @@ soldiers:
       throwing: 80
       strength: 70
       psiStrength: 99
-      psiSkill: 60
+      psiSkill: 50
       melee: 80

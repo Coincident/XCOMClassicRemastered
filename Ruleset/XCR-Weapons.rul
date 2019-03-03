@@ -410,9 +410,9 @@ items:
   - type: STR_PSI_AMP
     requires:
       - STR_PSI_AMP
-    size: 0.4
+    size: 0.5
     costSell: 766000
-    weight: 15
+    weight: 16
     tuUse: 84
     flatRate: false
   - type: STR_SMOKE_GRENADE
