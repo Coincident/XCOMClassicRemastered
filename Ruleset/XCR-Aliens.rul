@@ -9,7 +9,7 @@ units:
       firing: 55
       throwing: 58
       strength: 44
-      psiStrength: 55
+      psiStrength: 60
       psiSkill: 0
       melee: 70
     value: 5
@@ -23,7 +23,7 @@ units:
       firing: 55
       throwing: 58
       strength: 44
-      psiStrength: 55
+      psiStrength: 60
       psiSkill: 0
       melee: 70
     value: 6
@@ -38,7 +38,7 @@ units:
       firing: 55
       throwing: 58
       strength: 44
-      psiStrength: 55
+      psiStrength: 60
       psiSkill: 0
       melee: 70
     value: 6
@@ -53,7 +53,7 @@ units:
       firing: 55
       throwing: 58
       strength: 44
-      psiStrength: 55
+      psiStrength: 60
       psiSkill: 0
       melee: 70
     value: 7
@@ -67,7 +67,7 @@ units:
       firing: 66
       throwing: 60
       strength: 53
-      psiStrength: 60
+      psiStrength: 65
       psiSkill: 0
       melee: 70
     value: 8
@@ -81,7 +81,7 @@ units:
       firing: 70
       throwing: 65
       strength: 57
-      psiStrength: 65
+      psiStrength: 70
       psiSkill: 0
       melee: 76
     value: 9
@@ -96,7 +96,7 @@ units:
       firing: 57
       throwing: 58
       strength: 36
-      psiStrength: 60
+      psiStrength: 65
       psiSkill: 0
       melee: 76
     value: 5
@@ -110,7 +110,7 @@ units:
       firing: 57
       throwing: 58
       strength: 36
-      psiStrength: 60
+      psiStrength: 65
       psiSkill: 0
       melee: 76
     value: 6
@@ -124,7 +124,7 @@ units:
       firing: 57
       throwing: 58
       strength: 36
-      psiStrength: 60
+      psiStrength: 65
       psiSkill: 0
       melee: 76
     value: 7
@@ -138,7 +138,7 @@ units:
       firing: 57
       throwing: 58
       strength: 36
-      psiStrength: 60
+      psiStrength: 65
       psiSkill: 0
       melee: 76
     value: 6
@@ -152,8 +152,8 @@ units:
       firing: 60
       throwing: 58
       strength: 39
-      psiStrength: 70
-      psiSkill: 40
+      psiStrength: 75
+      psiSkill: 37
       melee: 76
     value: 10
     aggression: 0
@@ -167,8 +167,8 @@ units:
       firing: 60
       throwing: 58
       strength: 41
-      psiStrength: 75
-      psiSkill: 45
+      psiStrength: 80
+      psiSkill: 43
       melee: 76
     value: 11
       
@@ -182,7 +182,7 @@ units:
       firing: 68
       throwing: 65
       strength: 50
-      psiStrength: 60
+      psiStrength: 65
       psiSkill: 0
       melee: 60
     intelligence: 3
@@ -199,7 +199,7 @@ units:
       firing: 68
       throwing: 65
       strength: 50
-      psiStrength: 60
+      psiStrength: 65
       psiSkill: 0
       melee: 60
     intelligence: 4
@@ -216,7 +216,7 @@ units:
       firing: 68
       throwing: 65
       strength: 50
-      psiStrength: 60
+      psiStrength: 65
       psiSkill: 0
       melee: 60
     intelligence: 5
@@ -233,7 +233,7 @@ units:
       firing: 75
       throwing: 67
       strength: 52
-      psiStrength: 65
+      psiStrength: 70
       psiSkill: 0
       melee: 60
     intelligence: 6
@@ -250,7 +250,7 @@ units:
       firing: 79
       throwing: 70
       strength: 55
-      psiStrength: 70
+      psiStrength: 75
       psiSkill: 0
       melee: 60
     intelligence: 7
@@ -268,8 +268,8 @@ units:
       firing: 80
       throwing: 80
       strength: 53
-      psiStrength: 65
-      psiSkill: 35
+      psiStrength: 70
+      psiSkill: 32
       melee: 85
     value: 10
   - type: STR_ETHEREAL_LEADER
@@ -282,8 +282,8 @@ units:
       firing: 80
       throwing: 80
       strength: 53
-      psiStrength: 70
-      psiSkill: 40
+      psiStrength: 75
+      psiSkill: 38
       melee: 85
     value: 12
   - type: STR_ETHEREAL_COMMANDER
@@ -296,8 +296,8 @@ units:
       firing: 80
       throwing: 80
       strength: 55
-      psiStrength: 75
-      psiSkill: 45
+      psiStrength: 80
+      psiSkill: 43
       melee: 85
     value: 14
     aggression: 0
@@ -312,7 +312,7 @@ units:
       firing: 64
       throwing: 62
       strength: 70
-      psiStrength: 50
+      psiStrength: 60
       psiSkill: 0
       melee: 70
     intelligence: 3
@@ -328,7 +328,7 @@ units:
       firing: 64
       throwing: 62
       strength: 70
-      psiStrength: 55
+      psiStrength: 65
       psiSkill: 0
       melee: 70
     intelligence: 4
@@ -344,7 +344,7 @@ units:
       firing: 64
       throwing: 62
       strength: 70
-      psiStrength: 55
+      psiStrength: 70
       psiSkill: 0
       melee: 70
     intelligence: 5
