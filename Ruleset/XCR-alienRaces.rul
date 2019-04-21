@@ -1,6 +1,6 @@
 # MixedCrew Mod made by Mackus
 alienRaces: # engineers and navigators vary, rest is generally the same
-  # 10 Mixed crews without psionics (from very-hard to medium-hard)
+  # 10 Mixed crews with psionics (from very-hard to medium-hard)
   - id: STR_MIXED_CREW_0
     members: # Very-Hard: Ethereals, Mutons, Sectopods and Celatids. Psionics present even in Small Scouts.
       - STR_ETHEREAL_COMMANDER
@@ -12,7 +12,7 @@ alienRaces: # engineers and navigators vary, rest is generally the same
       - STR_SECTOPOD_TERRORIST
       - STR_CELATID_TERRORIST
   - id: STR_MIXED_CREW_1
-    members: # Very-Hard: Ethereals, Snakeman, Sectopods and Chrysalids. Psionics present in Medium / Large Scouts.
+    members: # Very-Hard: Ethereals, Snakemen, Sectopods and Chrysalids. Psionics present in Medium / Large Scouts.
       - STR_ETHEREAL_COMMANDER
       - STR_ETHEREAL_LEADER
       - STR_ETHEREAL_SOLDIER
@@ -82,7 +82,7 @@ alienRaces: # engineers and navigators vary, rest is generally the same
       - STR_CYBERDISC_TERRORIST
       - STR_SILACOID_TERRORIST
   - id: STR_MIXED_CREW_8
-    members: # Medium-Hard: Sectoids, Snakeman, Cyberdisks and Chrysalids
+    members: # Medium-Hard: Sectoids, Snakemen, Cyberdisks and Chrysalids
       - STR_SECTOID_COMMANDER
       - STR_SECTOID_LEADER
       - STR_SNAKEMAN_ENGINEER
@@ -103,7 +103,7 @@ alienRaces: # engineers and navigators vary, rest is generally the same
       - STR_REAPER_TERRORIST
   # 6 Mixed crews without psionics (from medium-hard to medium-easy)
   - id: STR_MIXED_CREW_A
-    members: # Medium-Hard: Mutons, Snakeman, Celatids and Chrysalids
+    members: # Medium-Hard: Mutons, Snakemen, Celatids and Chrysalids
       - STR_SNAKEMAN_COMMANDER
       - STR_SNAKEMAN_LEADER
       - STR_MUTON_ENGINEER
@@ -133,7 +133,7 @@ alienRaces: # engineers and navigators vary, rest is generally the same
       - STR_SILACOID_TERRORIST
       - STR_REAPER_TERRORIST
   - id: STR_MIXED_CREW_D
-    members: # Medium: Snakeman, Sectoids, Chrysalids and Cyberdisks
+    members: # Medium: Snakemen, Sectoids, Chrysalids and Cyberdisks
       - STR_SNAKEMAN_COMMANDER
       - STR_SNAKEMAN_LEADER
       - STR_SNAKEMAN_ENGINEER
@@ -143,7 +143,7 @@ alienRaces: # engineers and navigators vary, rest is generally the same
       - STR_CHRYSSALID_TERRORIST
       - STR_CYBERDISC_TERRORIST
   - id: STR_MIXED_CREW_E
-    members: # Medium-Easy: Snakeman, Floaters, Chrysalids and Reapers
+    members: # Medium-Easy: Snakemen, Floaters, Chrysalids and Reapers
       - STR_SNAKEMAN_COMMANDER
       - STR_SNAKEMAN_LEADER
       - STR_SNAKEMAN_ENGINEER
@@ -461,37 +461,37 @@ alienMissions:
 extraStrings:
   - type: en-US
     strings:
-      STR_MIXED_CREW_0: "Mixed Crew"
-      STR_MIXED_CREW_1: "Mixed Crew"
-      STR_MIXED_CREW_2: "Mixed Crew"
-      STR_MIXED_CREW_3: "Mixed Crew"
-      STR_MIXED_CREW_4: "Mixed Crew"
-      STR_MIXED_CREW_5: "Mixed Crew"
-      STR_MIXED_CREW_6: "Mixed Crew"
-      STR_MIXED_CREW_7: "Mixed Crew"
-      STR_MIXED_CREW_8: "Mixed Crew"
-      STR_MIXED_CREW_9: "Mixed Crew"
-      STR_MIXED_CREW_A: "Mixed Crew"
-      STR_MIXED_CREW_B: "Mixed Crew"
-      STR_MIXED_CREW_C: "Mixed Crew"
-      STR_MIXED_CREW_D: "Mixed Crew"
-      STR_MIXED_CREW_E: "Mixed Crew"
-      STR_MIXED_CREW_F: "Mixed Crew"
+      STR_MIXED_CREW_0: "Ethereals and Mutons"
+      STR_MIXED_CREW_1: "Unknown Mixed Crew"
+      STR_MIXED_CREW_2: "Unknown Mixed Crew"
+      STR_MIXED_CREW_3: "Unknown Mixed Crew"
+      STR_MIXED_CREW_4: "Unknown Mixed Crew"
+      STR_MIXED_CREW_5: "Unknown Mixed Crew"
+      STR_MIXED_CREW_6: "Unknown Mixed Crew"
+      STR_MIXED_CREW_7: "Unknown Mixed Crew"
+      STR_MIXED_CREW_8: "Unknown Mixed Crew"
+      STR_MIXED_CREW_9: "Sectoids and Floaters"
+      STR_MIXED_CREW_A: "Snakemen and Mutons"
+      STR_MIXED_CREW_B: "Unknown Mixed Crew"
+      STR_MIXED_CREW_C: "Unknown Mixed Crew"
+      STR_MIXED_CREW_D: "Unknown Mixed Crew"
+      STR_MIXED_CREW_E: "Unknown Mixed Crew"
+      STR_MIXED_CREW_F: "Sectoids and Floaters"
   - type: en-GB
     strings:
-      STR_MIXED_CREW_0: "Mixed Crew"
-      STR_MIXED_CREW_1: "Mixed Crew"
-      STR_MIXED_CREW_2: "Mixed Crew"
-      STR_MIXED_CREW_3: "Mixed Crew"
-      STR_MIXED_CREW_4: "Mixed Crew"
-      STR_MIXED_CREW_5: "Mixed Crew"
-      STR_MIXED_CREW_6: "Mixed Crew"
-      STR_MIXED_CREW_7: "Mixed Crew"
-      STR_MIXED_CREW_8: "Mixed Crew"
-      STR_MIXED_CREW_9: "Mixed Crew"
-      STR_MIXED_CREW_A: "Mixed Crew"
-      STR_MIXED_CREW_B: "Mixed Crew"
-      STR_MIXED_CREW_C: "Mixed Crew"
-      STR_MIXED_CREW_D: "Mixed Crew"
-      STR_MIXED_CREW_E: "Mixed Crew"
-      STR_MIXED_CREW_F: "Mixed Crew"
+      STR_MIXED_CREW_0: "Ethereals and Mutons"
+      STR_MIXED_CREW_1: "Unknown Mixed Crew"
+      STR_MIXED_CREW_2: "Unknown Mixed Crew"
+      STR_MIXED_CREW_3: "Unknown Mixed Crew"
+      STR_MIXED_CREW_4: "Unknown Mixed Crew"
+      STR_MIXED_CREW_5: "Unknown Mixed Crew"
+      STR_MIXED_CREW_6: "Unknown Mixed Crew"
+      STR_MIXED_CREW_7: "Unknown Mixed Crew"
+      STR_MIXED_CREW_8: "Unknown Mixed Crew"
+      STR_MIXED_CREW_9: "Sectoids and Floaters"
+      STR_MIXED_CREW_A: "Snakemen and Mutons"
+      STR_MIXED_CREW_B: "Unknown Mixed Crew"
+      STR_MIXED_CREW_C: "Unknown Mixed Crew"
+      STR_MIXED_CREW_D: "Unknown Mixed Crew"
+      STR_MIXED_CREW_E: "Unknown Mixed Crew"
+      STR_MIXED_CREW_F: "Sectoids and Floaters"
