@@ -1,6 +1,6 @@
 # X-COM Classic Remastered
-*An OpenXcom mod that rebalances the original features of classic X-COM.*  
-*All existing technologies are situational, and gameplay is more varied.*
+*An OpenXcom mod that rebalances all original features of classic X-COM.*  
+*Every existing technology is situational, and gameplay is more varied.*
 
 *Version 0.1 Beta - Created by* **Coincident**
 
@@ -38,7 +38,7 @@ Regular field weapons consist of 3 classes weapons, with 3 types of weapon each.
 **Weapon Classes**:  
 **Pistol** - Light, small and one-handed; can be **quickly drawn from the belt** for a last-resort snap-shot. Low damage, but **fast-firing**. Overall, it has the **best snap-shot** at close/medium range, but a weak and low accuracy aimed-shot.  
 **Rifle** - General purpose assault rifle. **Medium damage**; high ammo capacity. **Auto-shot = highest damage per second** of all weapon classes. Decent snap-shot, better than the Cannon, worse than the Pistol. Decent aimed-shot; better than the Pistol, worse than the Cannon.  
-**Cannon** - **Heavy**, slow, and low ammo. **Very high damage**. Snap-shot is slow and inaccurate, but has the **best aimed-shot** of all weapon classes. Because it is slow, it is best combined with a belt pistol: after an aimed-shot, a fast soldier will not have enough time units for a snap-shot from the cannon, but might have enough from a pistol.
+**Cannon** - **Heavy**, slow, and low ammo. **Very high damage**. Snap-shot is slow and inaccurate, but has the **best aimed-shot** of all weapon classes. Because it is slow, it is best combined with a belt pistol: after a cannon aimed-shot, a fast soldier will have enough time units to draw a pistol and take a snap-shot.
 
 **Other weapons**:  
 **Auto-Cannon** - **No aimed-shot**, but a **better auto-shot than the rifle**. It is slower than the rifle, but deals more damage per second overall. Another obvious advantage is loading it with explosive, or even incendiary ammunition, which is ideal to lighten night missions.  
@@ -46,7 +46,8 @@ Regular field weapons consist of 3 classes weapons, with 3 types of weapon each.
 **Blaster Launcher** - Can be researched, but not used my X-Com. Only aliens have the psi powers to launch guided missiles.  
 **X-COM Launcher** - No snap-shot: combine it with a pistol. The X-COM equivalent to the Blaster Launcher, that works like an **advanced rocket launcher**, and fires in a straight line. It features small (tactical), large, and incendiary bombs, just like the Rocket Launcher, but deals much more damage over a larger radius. Cannot destroy UFO hulls.  
 **High Explosive** - Damage and weight increased. Deadly, but takes a strong soldier to throw.  
-**Fusion Charge** - Elerium version of the High Explosive. Even more deadly, and heavy. The only piece of equipment that **can destroy UFO hulls**.
+**Fusion Charge** - Elerium version of the High Explosive. Even more deadly, and heavy. The only piece of equipment that **can destroy UFO hulls**.  
+**Psi-Amp** - Nerfed. **More time-units are required** to use any form of psi attack, so a soldier can only perform **1 attack per turn**. Also, all attacks are much **less likely to succeed**, especially psi-control. Against psi-strong aliens, it is safer to attempt panic attacks and try to get a successful one, than to fail all psi-control attacks. Alien psionic attacks were not changed, and will still be a dangerous form of attack on your soldiers.
 
 **Summary**:  
 **Heavy Plasma** is no longer overpowered. It is the best long-range sniping weapon, but has **no auto-shot**; so it is out-classed by the Plasma Rifle in short-range. It is also **heavy and slow**, and is out-classed by the Plasma Pistol for reaction fire. You can no longer equip a rookie with Power Armor and Plasma Cannon (X-COM armors now have a weight penalty too). Also, all **plasma weapons have low ammo**, so reloading in the middle of a fight is common.  
@@ -70,9 +71,9 @@ Human-worn X-COM armors are all weaker on the back side, and have a weight penal
 **Floaters** were not changed, they are still the **easiest race** to fight against, although the **Reaper** terror unit is now faster and can travel greater distances without triggering reaction fire.  
 **Sectoids** were also not changed, they are relatively easy, although Sectoids from larger UFOs will have **some psionic powers**. **Cyberdiscs** fire the most **powerful laser** in the game, but are **vulnerable to laser** fire themselves.  
 **Snakemen** were improved to become medium-difficulty foes: they are now the fastest non-terror aliens, with very **high TUs and reactions**. They are still easy to kill even with lasers. **Chrysalids** were not changed, and remain the **most frightening alien in the game**.  
-**Mutons** were greatly improved: they have **higher resist** to bullets, lasers, explosions, and even plasma. They are now the **hardest unit to kill** after the Sectopod, to remind you of their TFTD counterpart: the Lobstermen. They can only be killed by high-damage weapons, such as plasma and fusions bombs, and it may require several Heavy Plasma shots to bring a Muton down. However, they are **slower** and have **lower reactions**, and are vulnerable to psionics, incendiary ammo and acid (mind-controlling a Celatid is a good way to kill them). **Celatids** were not changed, and still have the **highest damage acid** projectile in the game. **Silacoids** are now faster and can travel greater distances without triggering reaction fire.  
+**Mutons** were greatly improved: they have **higher resist** to bullets, lasers, explosions, and even plasma. They are now the **hardest unit to kill** after the Sectopod, to remind you of their TFTD counterpart: the Lobstermen! They can only be killed by high-damage weapons, such as plasma and fusions bombs, and it may require more than one Heavy Plasma shots to bring a Muton down. However, they are **slower** and have **lower reactions**, and are vulnerable to psionics, incendiary ammo and acid (mind-controlling a Celatid is a good way to kill them). **Celatids** were not changed, and still have the **highest damage acid** projectile in the game. **Silacoids** are now faster and can travel greater distances without triggering reaction fire.  
 **Ethereals** were not changed, they are still mid-range soldiers with **high psionic powers**. **Sectopods**’ armor was slightly reduced, but they are still the **hardest unit to kill**: use lasers.  
-As the game progresses, difficulty will increase. The alien UFOs will start having **mixed crews with 2 alien races** each. Several (but not all) of these crews have at least one race with psionic powers, which can result in very deadly combinations (i.e. Mutons+Ethereals). Also, the Hyperwave Decoder will only state that a UFO has a “Mixed Crew”; you can only know which races are involved in the Battlescape...
+As the game progresses, difficulty will increase. The alien UFOs will start having **mixed crews with 2 alien races** each. Several (but not all) of these crews have at least one race with psionic powers, which can result in very deadly combinations (i.e. Mutons+Ethereals). Also, the Hyperwave Decoder may not be able to detect which kind of “Mixed Crew” a UFO contains; you can only know for sure which races are involved on the battlefield...
 
 
 
@@ -104,9 +105,9 @@ All crafts have a maintenance cost; but the **Interceptor** and **Skyranger** ar
 
 The **Avenger** was slightly nerfed. It is still the **best troop transporter, but slower**: it has the same top speed as the alien Battleship. When a Battleship is detected in a base retaliation run, only an Avenger at the base being attacked can catch up to the Battleship. Avengers from far away bases will be too slow.
 
-The **Firestorm** was improved, it is now **stronger** and the **fastest ship** in your fleet; the only one faster than the Battleship (you still need 2 of them to survive the damage of a Battleship).
+The **Firestorm** was improved, it is now **stronger** and the **fastest ship** in your fleet; the only one faster than the alien Battleship (you still need 2 of them to survive the damage of a Battleship).
 
-The Lightning was replaced by the **Thunder**: a hybrid-engine fighter-transport craft that **consumes regular fuel**. It can load 2 tanks, and carry **more soldiers than the skyranger**. It also has a **large fuel deposit**, so it is a good craft to patrol with. However, it only has 1 weapon and a medium-slow speed (faster than any small UFO).
+The Lightning was replaced by the **Thunder**: a hybrid-engine fighter-transport craft that **consumes regular fuel**. It can load 2 tanks, and carry **more soldiers than the skyranger**. It also has a **large fuel deposit**, so it is a good craft to patrol with. However, it only has 1 weapon and a medium-slow speed (but still faster than any small UFO).
 
 
 
@@ -117,7 +118,7 @@ The Lightning was replaced by the **Thunder**: a hybrid-engine fighter-transport
 
 **Avalanche** - Large, **very long range** cruise missile. The best pick against Large Scouts, that can be taken down from a safe range, but might sometimes get destroyed. The high-range makes this weapon the best choice to safely engage UFOs without risk of taking damage - it can out-range all UFOs except the Terrorship and Battleship. However, it **only carries 2 missiles**, and does not deal much total damage, so it has limited use against anything larger than an Abductor. It also has **low accuracy**, so if you’re unlucky, all the shots might miss.
 
-**Laser** - A mix between the Cannon and the Stingray: **higher DPS than the Stingray, but short range**. The Cannon is still better against Small Scouts because it does not destroy them. The Stingray is still better against Medium Scouts because it outranges them. However, the Laser’s **very high DPS, ammo, and accuracy** will quickly melt down any UFO that gets within range, which is an advantage for **long-duration interceptions**. So, equipping 2 interceptors with several lasers is a good strategy to take down Abductors, Harvesters, or even Supply Ships in the early game.
+**Laser** - A mix between the Cannon and the Stingray: **higher DPS than the Stingray, but short range**. The Cannon is still better against Small Scouts because it never destroys them. The Stingray is still better against Medium Scouts because it outranges them. However, the Laser’s **very high DPS, ammo, and accuracy** will quickly melt down any UFO that gets within range, which is an advantage for **long-duration interceptions**. So, equipping 2 interceptors with several lasers is a good strategy to take down Abductors, Harvesters, or even Supply Ships in the early game.
 
 **Plasma** - Nerfed in comparison to vanilla - lower range and less ammo. It **rearms slowly**, and must be loaded with 20 Plasma Slugs, that cost Elerium to produce (1 Elerium = 8 Slugs). If you can afford the elerium, this is the **best general-purpose weapon** with a **higher DPS and range than the Laser**. It can outrange all scouts, but medium-size UFOs will fire back. It has a **high ammo loadout**; 1 Plasma Beam is enough to take down a Terror Ship or smaller; 2 Plasmas are enough for Supply Ships and Battleships.
 
@@ -152,14 +153,14 @@ To start interrogating aliens, you need an Alien Containment facility. To resear
 
 
 ## Scoring
-All scoring rebalanced, and generally scaled down. Recovered UFO parts and alien corpses give much fewer points, so losing soldiers / tanks / crafts / civilian lives has a much greater negative impact on the battlescape score. Getting high scores in the geoscape is also more difficult.
+All scoring was rebalanced, and generally scaled down. Recovered UFO parts and alien corpses give much fewer points, so losing soldiers / tanks / crafts / civilian lives has a much greater negative impact on the battlescape score. Getting high scores in the geoscape is also more difficult.
 
 
 
 ## Links
 [XCR on GitHub](https://github.com/Coincident/XCOMClassicRemastered)
 
-[XCR Readme](https://docs.google.com/document/d/1w74mm2hztQEn1fmIWZpCMQYygq-xuDaVMDJ6RyDEJ_U)  
+[XCR Readme](https://docs.google.com/document/d/1w74mm2hztQEn1fmIWZpCMQYygq-xuDaVMDJ6RyDEJ_U) (this document)  
 [Weapons Research Tree](https://docs.google.com/drawings/d/1yHw6fUAcC7SVKjrbTXd4AGmVco8tPno7IyUL2Pqsy3U)  
 [UFOs Research Tree](https://docs.google.com/drawings/d/1Zhqt46kY6q82AwOePOZmPcOAhmOHtwrniywlYL0Oqks)  
 [Aliens Research Tree](https://docs.google.com/drawings/d/126EYjrqiZbpQliMWhdjcVNKf85d9UnxarD64ZVgAHCw)
@@ -173,7 +174,7 @@ All scoring rebalanced, and generally scaled down. Recovered UFO parts and alien
 
 ## Credits
 **X-COM Classic Remastered**  
-Complete rebalance, X-COM Launcher, and Fusion Charge - **Coincident**
+Complete game rebalance, X-COM Launcher, and Fusion Charge - **Coincident**
 
 Thanks to the authors of **other mods**, which content was included or inspired upon:  
 Alien_Research_Mod - **cybragon**  
