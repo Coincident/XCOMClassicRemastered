@@ -784,7 +784,6 @@ items:
     hitSound: 19
     hitAnimation: 36
   - type: STR_SNAKEMAN_MELEE_WEAPON
-    bigSprite: -1
     meleeSound: 49
     strengthApplied: true
     damageType: 7
@@ -798,7 +797,6 @@ items:
     recover: false
     flatRate: true
   - type: STR_MUTON_MELEE_WEAPON
-    bigSprite: -5
     meleeSound: 48
     strengthApplied: true
     damageType: 7
