@@ -332,12 +332,12 @@ items:
     listOrder: 3743
   - type: STR_BLASTER_LAUNCHER
     requires:
-      - STR_THIS_WEAPON_CANNOT_BE_USED_BY_XCOM
+      - STR_CANNOT_BE_USED_BY_XCOM
     size: 0.8
     costSell: 150000
   - type: STR_BLASTER_BOMB
     requires:
-      - STR_THIS_WEAPON_CANNOT_BE_USED_BY_XCOM
+      - STR_CANNOT_BE_USED_BY_XCOM
     size: 0.5
     costSell: 31500
     recoveryPoints: 2

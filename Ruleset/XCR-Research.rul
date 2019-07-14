@@ -851,7 +851,6 @@ research:
     cost: 160
     points: 36
     unlocks:
-      - STR_CYDONIA_DEP
       - STR_ALIEN_ORIGINS
       - STR_THE_MARTIAN_SOLUTION_DEP
       - STR_CYDONIA_OR_BUST_DEP
@@ -973,6 +972,11 @@ research:
     points: 9
     dependencies:
       - STR_ALIEN_HABITAT
+# Unobtainable Research (prevents alien-only items from being used by X-COM)
+  - name: STR_CANNOT_BE_USED_BY_XCOM
+    cost: 0
+    points: 0
+    needItem: true
 
 ufopaedia:
   - id: STR_ALIEN_LIFE_FORMS
