@@ -2,7 +2,7 @@
 *An OpenXcom mod that rebalances all original features of classic X-COM.*  
 *Every existing technology is situational, and gameplay is more varied.*
 
-*Version 1.1 - Created by* **Coincident**
+*Version 1.2 - Created by* **Coincident**
 
 A complete rebalance of all the features in the classic game to sharpen the gameplay experience variety. Designed for people who want to experience **only the original content of the game**, without the severe **balance** problems and with enhanced **quality**. This mod addresses the blatant balance problems of the original, for example: late-game psionics, the blaster launcher, and the plasma beam’s long range making every interception a cake-walk.
 
@@ -28,6 +28,7 @@ Then, still in the **Options** menu, click on **Advanced**, and configure the fo
 
 
 ## Changelog
+* 1.2 - OXCE is now supported. Fixed references to non-existing research topics.
 * 1.1 - Removed bigSprite property from Snakeman and Muton fixed melee weapons, which should not be seen. This fixes a problem when loading the mod with the latest nightly version of OpenXcom
 * 1.0 - First official release
 
