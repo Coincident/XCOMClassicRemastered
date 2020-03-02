@@ -27,7 +27,7 @@ units:
       psiSkill: 0
       melee: 70
     value: 6
-    aggression: 1
+    aggression: 9999
   - type: STR_FLOATER_NAVIGATOR
     stats:
       tu: 50
