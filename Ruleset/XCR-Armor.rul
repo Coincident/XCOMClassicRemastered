@@ -11,6 +11,8 @@ armors:
       - 1.2
       - 1.5
       - 1.0
+    corpseBattle:
+      - STR_CORPSE
     weight: 0
     loftempsSet: [ 4 ]
   - type: STR_PERSONAL_ARMOR_UC
